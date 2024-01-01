@@ -1,0 +1,12 @@
+{
+  "id": "zX7KyfBXOy",
+  "head": {
+    "link": [],
+    "style": []
+  },
+  "html": "<span class=\"field field--name-uid\" nuxt-ssr-component-uid><a aria-current=\"page\" href=\"/\" class=\"router-link-active router-link-exact-active username\" title=\"View user profile.\">Umami</a></span>",
+  "state": {},
+  "chunks": {},
+  "props": {},
+  "teleports": {}
+}
