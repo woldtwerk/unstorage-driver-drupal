@@ -1,0 +1,266 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--ZnNTECb": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/bee28212-a842-48f4-95b5-fe2d1bfcd634",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--Dm0jGTB": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/7424296d-812a-4760-bb3a-8a4127a1465a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--8XAtZba": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/b6678dea-1f3d-4995-919f-927165e8066c",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--Q6glpIj": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/2b57b09a-1ddf-4124-8dd6-eafaa539a308",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--vUy5wkv": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/c7cc3750-1a04-47da-a97b-577b69cdc9c6",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--m7qW6Dl": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/3b196d88-9f29-4876-84a1-017da75c73f1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--IPZadUV": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/0cec9200-462c-4b41-b315-75c26cb2f9a5",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--mqbmtew": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/bac94170-8d93-4a53-831f-b6bede3b1771",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--5Sage5c": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/b0a4f837-44c2-440a-868a-11cf56081120",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--4YVxF9X": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/c2bda108-45cf-4861-ab14-3bbaba8b063b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--xZifJfK": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/9e39fedc-98c9-44d0-a855-3cd7259261ae",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block_content fields' permission is required."
+          }
+        },
+        "item--2CvgL2l": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/98e45592-23b0-44c9-a37a-7f3c3ad7e8cc",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer media fields' permission is required."
+          }
+        },
+        "item--5gwYpY8": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/ba29f3ab-0077-4d34-804c-51ad86e79982",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer media fields' permission is required."
+          }
+        },
+        "item--qQKG9AM": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/6c19deaa-5ad3-4f8d-8ee1-c425f276466b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer media fields' permission is required."
+          }
+        },
+        "item--HczGVog": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/dcf26ce5-547e-4bfe-8ab0-b4aafd68dd21",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer media fields' permission is required."
+          }
+        },
+        "item--J2Z61ky": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/e51905a5-8df3-472d-8c95-2ee12ab127aa",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer media fields' permission is required."
+          }
+        },
+        "item--SYdaBK2": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/8818281b-bff1-4982-b472-ffe85e6b0fe0",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--JiDot1Q": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/0cf83206-d215-4c09-9164-f8f30ad5096a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--CuyI6FD": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/9be5fc62-6db9-4e4e-a2ae-f4a1136ee2f7",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--X6yDzSv": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/54608624-073d-4460-a45f-860c5a6cfbdd",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--dEts60H": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/1fe249a6-a131-40e2-a784-9fe4efdffaa8",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--6HoJcVT": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/c8a82c73-3c15-4ec1-a155-8161fa3d5626",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--MPHFXK3": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/007918fb-7976-4ba6-90a4-5caef323f992",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--1KqG7BU": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/c2185719-774a-4a64-8ebb-c7d50389342e",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--SqnCUo6": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/42e422e6-123c-4d38-8739-edfdf3d19da2",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--sFyI0XS": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/adf36145-e5a1-4cd4-86a3-d0e7b269d413",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--am2qsbR": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/f5b22b79-06fa-4bc1-ae8a-40217c8f35c1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--fXgizAN": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/9fbaabbf-7c3f-4082-a829-7ea498750332",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--aWWigCn": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/cc532f61-8452-420b-bcfd-e17b05303d43",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--J3g10xG": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/f59d8825-6867-4ada-98fe-cc9667ddd993",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--1kBzMyD": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/87776dd7-7a10-447f-a6cc-7ff32af107de",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--W6xdw4K": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/8893ffe8-f58f-4aa5-99eb-f4e7f1bdcec1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--TwmUTPA": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/c29fdc55-e3b8-4b75-9826-d82e744ea280",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--9Yo0hET": {
+          "href": "http://localhost:3001/en/jsonapi/field_config/field_config/a25d0fcb-e7e2-491d-ba27-c7051ae6379c",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer user fields' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/field_config/field_config"
+    }
+  }
+}

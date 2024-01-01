@@ -1,0 +1,105 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--ojDMTB5": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/3efdb38e-0065-46f4-a61c-21d0b680aa56",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--CPfWdrf": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/2cf8a01e-bd0a-426e-b81c-6093f84796a1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--uwaxfpv": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/2aa56a7a-55b7-4eee-8b1a-8f24405cf1ac",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--VDQubNp": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/73c0b075-d67c-451d-ab1e-8e863a934a26",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--cLjotH8": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/d20e18b5-fef6-4b43-b472-201a82b5eb3d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--Nj5gqFa": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/5ebf0e33-4c36-4370-a6f8-042198a9b0ea",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--FWeRCCH": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/c6ece1b8-9699-43b1-beae-6a22e3075955",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--7VAd4th": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/92405133-9cb5-46da-b868-f7443eabe6db",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--WdfFW2l": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/90d7cafe-d85c-47f2-9b4f-b0d8dd59e2ad",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--RikLAMo": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/b954690c-62ec-4a1b-8008-235862707c7d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--q6rMz2p": {
+          "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings/fc7e3e5a-1390-44c0-87cf-2c614e97454e",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/language_content_settings/language_content_settings"
+    }
+  }
+}

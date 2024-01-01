@@ -1,0 +1,175 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--AEYp7CM": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/634b3ac1-facb-469a-9898-9eaa56c08d23",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--0dV7onR": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/265409c6-e3b1-47e1-a098-86c5caca7929",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--bpFK9au": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/a30f2c47-3bf6-4838-8f69-76a4a8f898b4",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--XP04QHv": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/16544cb2-5b99-4c31-b3d3-77c70699f97e",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--okusspD": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/3eee1da4-f2c6-45b6-96f9-22ee8ec83579",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--CHQXoy7": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/1c5d5c48-dc4b-4c3c-9431-3453bd18fad0",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--HhT9dMH": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/b2948b9f-8bfa-4c00-9748-bb642d253745",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--o1wC0vk": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/7010f218-54b1-4bc4-8833-c80ab760883e",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--09UMkDN": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/00be6b9f-f61e-40c9-b31e-06fa76b7b4c1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--uVW1E3Z": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/5e04e9b9-4754-463a-b39f-4a282bdb4269",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--KEvsxMr": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/decb7a98-c460-4cd6-ae3b-ea9ba40b2cfb",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--RCnpxKm": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/51b70709-5317-4607-b2c0-0ea077c0dc97",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--7xh7Tob": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/9091ec7a-5113-4908-b575-17c3cb6d910b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--wkDQgbd": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/2bc21460-7e73-4c8c-a276-2f9af379dec7",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--XfqR3zi": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/076c11ba-956e-40fd-bf75-1f525acf93dc",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--j1SCA9P": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/c6e2bbec-ab0f-491d-b4a2-9e23536b826b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--935P5gE": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/a47e3982-7589-4ed4-aafd-74e87031498a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--hI88wQn": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/38613d64-8c45-4026-90dc-1be5cc6c051a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--lGyfdJD": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/386ed89f-d1bd-47cd-b187-465ed81f2693",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--KMVOBQj": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/95fb202c-f1b9-4279-b843-cae220272a5d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        },
+        "item--xPofCXz": {
+          "href": "http://localhost:3001/en/jsonapi/view/view/383016ba-d5f9-4919-9ab9-d02aeb88da17",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer views' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/view/view"
+    }
+  }
+}

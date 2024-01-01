@@ -1,0 +1,1730 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "node--recipe",
+      "id": "a3eda393-a2b5-4e67-82c8-776874d97272",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272?resourceVersion=id%3A2"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1,
+        "drupal_internal__vid": 2,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Quiche mediterráneo profundo",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/quiche-mediterráneo-profundo",
+          "pid": 68,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 30,
+        "field_difficulty": "medium",
+        "field_ingredients": [
+          "Para la masa:",
+          "280g harina normal",
+          "140g mantequilla",
+          "Agua fría",
+          "Para el relleno:",
+          "1 cebolla",
+          "2 dientes ajo",
+          "Medio calabación",
+          "450ml leche de soja",
+          "500g queso parmesano",
+          "2 huevos",
+          "200g tomate deshidratado",
+          "100g queso feta"
+        ],
+        "field_number_of_servings": 8,
+        "field_preparation_time": 40,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Precaliente el horno a 200°C. Empezando por la pastelería; Frote la harina y la mantequilla en un tazón hasta que se desmoronen como migas de pan. Agregue el agua, poco a poco, hasta que forme una masa.</li>\n  <li>Extiende la masa sobre una tabla enharinada y extiende suavemente sobre tu molde. Coloque en la nevera durante 20 minutos antes de hornear a ciegas durante otros 10.</li>\n  <li>Mientras la masa se está enfriando, corte y cocine suavemente las cebollas, el ajo y el calabacín.</li>\n  <li>En un tazón grande, agregue la leche de soya, la mitad del queso parmesano y los huevos. Mezclar suavemente.</li>\n  <li>Una vez que la masa esté cocida, esparza las cebollas, el ajo y los tomates secos sobre la base y vierta la mezcla de los huevos. Espolvoree el queso parmesano restante y coloque cuidadosamente el feta sobre la parte superior. Hornear durante 30 minutos o hasta que estén doradas.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Precaliente el horno a 200°C. Empezando por la pastelería; Frote la harina y la mantequilla en un tazón hasta que se desmoronen como migas de pan. Agregue el agua, poco a poco, hasta que forme una masa.</li>\n<li>Extiende la masa sobre una tabla enharinada y extiende suavemente sobre tu molde. Coloque en la nevera durante 20 minutos antes de hornear a ciegas durante otros 10.</li>\n<li>Mientras la masa se está enfriando, corte y cocine suavemente las cebollas, el ajo y el calabacín.</li>\n<li>En un tazón grande, agregue la leche de soya, la mitad del queso parmesano y los huevos. Mezclar suavemente.</li>\n<li>Una vez que la masa esté cocida, esparza las cebollas, el ajo y los tomates secos sobre la base y vierta la mezcla de los huevos. Espolvoree el queso parmesano restante y coloque cuidadosamente el feta sobre la parte superior. Hornear durante 30 minutos o hasta que estén doradas.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Un quiche de inspiración italiana con tomates secos y calabacín. Una comida ligera perfecta para un día de verano.",
+          "format": "basic_html",
+          "processed": "<p>Un quiche de inspiración italiana con tomates secos y calabacín. Una comida ligera perfecta para un día de verano.</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/node_type?resourceVersion=id%3A2"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/relationships/node_type?resourceVersion=id%3A2"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/revision_uid?resourceVersion=id%3A2"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/relationships/revision_uid?resourceVersion=id%3A2"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/uid?resourceVersion=id%3A2"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/relationships/uid?resourceVersion=id%3A2"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "51d92594-73f7-4474-b466-36203fc0bcde",
+            "meta": {
+              "drupal_internal__target_id": 1
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/field_media_image?resourceVersion=id%3A2"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/relationships/field_media_image?resourceVersion=id%3A2"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "6e2863dc-4be9-4e75-8eb5-9162aa3798c3",
+              "meta": {
+                "drupal_internal__target_id": 31
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/field_recipe_category?resourceVersion=id%3A2"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/relationships/field_recipe_category?resourceVersion=id%3A2"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "de29b398-9ec5-40f5-98ac-8500b077eab7",
+              "meta": {
+                "drupal_internal__target_id": 22
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "0e6011b4-6362-4ee5-adb1-7abde28af104",
+              "meta": {
+                "drupal_internal__target_id": 13
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/field_tags?resourceVersion=id%3A2"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a3eda393-a2b5-4e67-82c8-776874d97272/relationships/field_tags?resourceVersion=id%3A2"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "a07cb9fd-8570-4b3e-9955-f83fba93c739",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739?resourceVersion=id%3A4"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2,
+        "drupal_internal__vid": 4,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Bizcochos veganos de chocolate y nueces",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/bizcochos-veganos-de-chocolate-y-nueces",
+          "pid": 70,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 20,
+        "field_difficulty": "medium",
+        "field_ingredients": [
+          "72g aceite de girasol",
+          " 80g de chocolate negro vegano",
+          " 170g de harina",
+          " 80g de harina de coco",
+          " 4g de levadura",
+          " 36g de cacao en polvo",
+          " 100g de azúcar en polvo",
+          " 45g de sirope de arce",
+          " 1g cucharadita de sal marina",
+          " 5g de extracto de vainilla",
+          " 230ml de leche de soja orgánica sin edulcorar",
+          " 100g de nueces pecanas",
+          " 80g de nueces"
+        ],
+        "field_number_of_servings": 12,
+        "field_preparation_time": 20,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Engrasar una bandeja de hornear de unos 20 cm (o tamaño similar) con un poco del aceite de girasol y cubrir con papel de hornear.</li>\n  <li>Precalentar el horno a 180°C.</li>\n  <li>Trocear aproximadamente 1/3 del chocolate en pedazos pequeños. Trocear 2/3 de las nueces pecanas y mezclar con el chocolate troceado. Apartar.</li>\n  <li>Trocear el resto de las nueces pecanas y las avellanas, que se usarán en la parte de arriba de los brownies. Mezclar y apartar.</li>\n  <li>Derretir el resto del chocolate en un tazón resistente al calor que colocaremos encima de un pequeño cazo con unos 5cm de agua hirviendo. No permitir que el fondo del tazón con el chocolate toque el agua. Remover el chocolate hasta que se derrita completamente. Una vez derretido, apartar y dejar enfriar un poco.</li>\n  <li>Mientras se derrite el chocolate tamizar la harina, el cacao en polvo y la harina de coco en un tazón grande. Mezclar. Una vez mezclado, agregue el polvo de hornear y el azúcar.</li>\n  <li>Una vez se haya enfriado un poco el chocolate, añadir lentamente el extracto de vainilla, el aceite de girasol, la leche de soja y el chocolate derretido en la mezcla de harina y cacao.</li>\n  <li>Añadir el chocolate y las nueces pecanas que habíamos troceado previamente, asegurándonos de que están bien repartidas por toda la mezcla.</li>\n  <li>Poner la mezcla en el molde de hornear y repartir uniformemente con la ayuda de una espátula.</li>\n  <li>Esparcir las nueces pecanas y avellanas troceadas por encima y hornear de 18 a 23 minutos en la parte central del horno.</li>\n  <li>Retirar del horno y dejar enfriar durante unos 45 minutos. Con mucho cuidado usar los bordes del papel de hornear para separar el brownie del molde y depositarlo en una tabla de cortar. Cortar en porciones iguales usando un cuchillo afilado.</li>\n  <li>Servir los brownies solos o acompañados de crema vegana o helado.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Engrasar una bandeja de hornear de unos 20 cm (o tamaño similar) con un poco del aceite de girasol y cubrir con papel de hornear.</li>\n<li>Precalentar el horno a 180°C.</li>\n<li>Trocear aproximadamente 1/3 del chocolate en pedazos pequeños. Trocear 2/3 de las nueces pecanas y mezclar con el chocolate troceado. Apartar.</li>\n<li>Trocear el resto de las nueces pecanas y las avellanas, que se usarán en la parte de arriba de los brownies. Mezclar y apartar.</li>\n<li>Derretir el resto del chocolate en un tazón resistente al calor que colocaremos encima de un pequeño cazo con unos 5cm de agua hirviendo. No permitir que el fondo del tazón con el chocolate toque el agua. Remover el chocolate hasta que se derrita completamente. Una vez derretido, apartar y dejar enfriar un poco.</li>\n<li>Mientras se derrite el chocolate tamizar la harina, el cacao en polvo y la harina de coco en un tazón grande. Mezclar. Una vez mezclado, agregue el polvo de hornear y el azúcar.</li>\n<li>Una vez se haya enfriado un poco el chocolate, añadir lentamente el extracto de vainilla, el aceite de girasol, la leche de soja y el chocolate derretido en la mezcla de harina y cacao.</li>\n<li>Añadir el chocolate y las nueces pecanas que habíamos troceado previamente, asegurándonos de que están bien repartidas por toda la mezcla.</li>\n<li>Poner la mezcla en el molde de hornear y repartir uniformemente con la ayuda de una espátula.</li>\n<li>Esparcir las nueces pecanas y avellanas troceadas por encima y hornear de 18 a 23 minutos en la parte central del horno.</li>\n<li>Retirar del horno y dejar enfriar durante unos 45 minutos. Con mucho cuidado usar los bordes del papel de hornear para separar el brownie del molde y depositarlo en una tabla de cortar. Cortar en porciones iguales usando un cuchillo afilado.</li>\n<li>Servir los brownies solos o acompañados de crema vegana o helado.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Exquisitos brownies veganos de chocolate con nueces. Estas delicias contienen un toque de coco haciéndolos el placer perfecto. Servir calientes acompañados de un poco de helado de vainilla sin lactosa.",
+          "format": "basic_html",
+          "processed": "<p>Exquisitos brownies veganos de chocolate con nueces. Estas delicias contienen un toque de coco haciéndolos el placer perfecto. Servir calientes acompañados de un poco de helado de vainilla sin lactosa.</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/node_type?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/relationships/node_type?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/revision_uid?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/relationships/revision_uid?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/uid?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/relationships/uid?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "2efbc2ec-af08-4684-9de7-c2fa0659e7a1",
+            "meta": {
+              "drupal_internal__target_id": 2
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/field_media_image?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/relationships/field_media_image?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "7a59df77-bf17-4a9f-832a-71ddc865d2b0",
+              "meta": {
+                "drupal_internal__target_id": 32
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/field_recipe_category?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/relationships/field_recipe_category?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "34718ac5-e47c-4bd6-8b2c-8732d95e5eb0",
+              "meta": {
+                "drupal_internal__target_id": 3
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "323ebd75-4eab-4109-a425-f0d7350b407a",
+              "meta": {
+                "drupal_internal__target_id": 7
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "cb49388b-87fd-4331-8fb7-855e12d0a2a4",
+              "meta": {
+                "drupal_internal__target_id": 27
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "c0254cd3-f023-4c01-845c-a3b573081ed4",
+              "meta": {
+                "drupal_internal__target_id": 9
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/field_tags?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/a07cb9fd-8570-4b3e-9955-f83fba93c739/relationships/field_tags?resourceVersion=id%3A4"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "3d108e11-424d-4bbb-b323-a4cb960cc3bf",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf?resourceVersion=id%3A6"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 3,
+        "drupal_internal__vid": 6,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Pasta vegetariana al horno súper fácil",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/pasta-vegetariana-horno-super-facil",
+          "pid": 72,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 20,
+        "field_difficulty": "easy",
+        "field_ingredients": [
+          "400g pasta de trigo integral",
+          " 1 cebolla",
+          " 2 dientes de ajo",
+          " 1 paquete de salchichas vegetarianas",
+          " 400g tomates picados",
+          " 50g rodajas de tomates secados al sol",
+          " 1 pizca de azúcar",
+          " 45g pesto rojo",
+          " 50g queso cheddar",
+          " Albahaca o hierbas mixtas",
+          " 100g queso mozzarella"
+        ],
+        "field_number_of_servings": 4,
+        "field_preparation_time": 5,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>En una sartén grande, hervir la pasta en abundante agua hasta que esté cocida.</li>\n  <li>Mientras se cocina la pasta, pica la cebolla y fríela suavemente con el ajo en un poco de aceite hasta que esté suave y la cebolla se vea clara.</li>\n  <li>Añadir las salchichas vegetarianas. Una vez dorado, retirar y picar en trozos grandes.</li>\n  <li>Pon las salchichas en la sartén y agrega los tomates, el azúcar, el pesto y los tomates secos. Sazone al gusto. Cocine a fuego lento hasta que la mayor parte del agua de los tomates picados se haya ido.</li>\n  <li>Escurrir la pasta y agregar a la sartén con las salchichas y los tomates. Agregue la mitad del queso cheddar y transfierelo a un plato poco profundo. Espolvoree con el resto del queso cheddar y salpique la mozzarella en rodajas por encima.</li>\n  <li>Asar durante 10 minutos o hasta que el queso se derrita y comience a dorarse. Servir con hojas de albahaca.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>En una sartén grande, hervir la pasta en abundante agua hasta que esté cocida.</li>\n<li>Mientras se cocina la pasta, pica la cebolla y fríela suavemente con el ajo en un poco de aceite hasta que esté suave y la cebolla se vea clara.</li>\n<li>Añadir las salchichas vegetarianas. Una vez dorado, retirar y picar en trozos grandes.</li>\n<li>Pon las salchichas en la sartén y agrega los tomates, el azúcar, el pesto y los tomates secos. Sazone al gusto. Cocine a fuego lento hasta que la mayor parte del agua de los tomates picados se haya ido.</li>\n<li>Escurrir la pasta y agregar a la sartén con las salchichas y los tomates. Agregue la mitad del queso cheddar y transfierelo a un plato poco profundo. Espolvoree con el resto del queso cheddar y salpique la mozzarella en rodajas por encima.</li>\n<li>Asar durante 10 minutos o hasta que el queso se derrita y comience a dorarse. Servir con hojas de albahaca.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Una pasta al horno es la comida más fácil y saludable. Este delicioso plato es súper rápido de preparar y una comida ideal entre semana para toda la familia.",
+          "format": "basic_html",
+          "processed": "<p>Una pasta al horno es la comida más fácil y saludable. Este delicioso plato es súper rápido de preparar y una comida ideal entre semana para toda la familia.</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/node_type?resourceVersion=id%3A6"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/relationships/node_type?resourceVersion=id%3A6"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/revision_uid?resourceVersion=id%3A6"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/relationships/revision_uid?resourceVersion=id%3A6"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/uid?resourceVersion=id%3A6"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/relationships/uid?resourceVersion=id%3A6"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "225acd17-9264-4b4a-9eab-d4357680dc64",
+            "meta": {
+              "drupal_internal__target_id": 3
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/field_media_image?resourceVersion=id%3A6"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/relationships/field_media_image?resourceVersion=id%3A6"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "6e2863dc-4be9-4e75-8eb5-9162aa3798c3",
+              "meta": {
+                "drupal_internal__target_id": 31
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/field_recipe_category?resourceVersion=id%3A6"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/relationships/field_recipe_category?resourceVersion=id%3A6"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "bff22cfc-a50e-4c88-a7ae-ebecb6d79a81",
+              "meta": {
+                "drupal_internal__target_id": 28
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "5b1a48aa-416d-4dfe-9625-759febbf4785",
+              "meta": {
+                "drupal_internal__target_id": 21
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "0eaa0caf-5bf6-439a-a8b8-8d3678b020b9",
+              "meta": {
+                "drupal_internal__target_id": 2
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/field_tags?resourceVersion=id%3A6"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/3d108e11-424d-4bbb-b323-a4cb960cc3bf/relationships/field_tags?resourceVersion=id%3A6"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "6f45d952-ea19-4cc3-9430-6b487074dbf5",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5?resourceVersion=id%3A8"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 4,
+        "drupal_internal__vid": 8,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Sopa de berro",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/sopa-de-berro",
+          "pid": 74,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 20,
+        "field_difficulty": "easy",
+        "field_ingredients": [
+          "3 racimos de berros",
+          "3 patatas",
+          "3 cebollas",
+          "2 puerros",
+          "800ml de caldo",
+          "75g de crème fraîche"
+        ],
+        "field_number_of_servings": 4,
+        "field_preparation_time": 10,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Prepare las verduras pelando y cortando las patatas y picando finamente las cebollas, los puerros y el ajo.</li>\n  <li>Caliente un poco de aceite en una sartén y agregue las verduras picadas, cocinándolas suavemente durante unos 5 minutos.</li>\n  <li>Agregue el caldo de verduras a la misma sartén y aumente el fuego hasta que hierva a fuego lento, agregando el berro después de unos 10 minutos. Cocine hasta que todas las verduras estén blandas y se muelan fácilmente.</li>\n  <li>Licuar la sopa con una batidora de mano o en un mezclador, hasta que esté suave.</li>\n  <li>Si la sopa se ha enfriado demasiado mientras se está licuando, agregue la crème fraîche y vuelva a calentarla antes de servirla (de lo contrario, sírvala de inmediato). Sazone a su gusto.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Prepare las verduras pelando y cortando las patatas y picando finamente las cebollas, los puerros y el ajo.</li>\n<li>Caliente un poco de aceite en una sartén y agregue las verduras picadas, cocinándolas suavemente durante unos 5 minutos.</li>\n<li>Agregue el caldo de verduras a la misma sartén y aumente el fuego hasta que hierva a fuego lento, agregando el berro después de unos 10 minutos. Cocine hasta que todas las verduras estén blandas y se muelan fácilmente.</li>\n<li>Licuar la sopa con una batidora de mano o en un mezclador, hasta que esté suave.</li>\n<li>Si la sopa se ha enfriado demasiado mientras se está licuando, agregue la crème fraîche y vuelva a calentarla antes de servirla (de lo contrario, sírvala de inmediato). Sazone a su gusto.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Una sopa maravillosamente simple y ligera, que aprovecha al máximo los productos locales de temporada.",
+          "format": "basic_html",
+          "processed": "<p>Una sopa maravillosamente simple y ligera, que aprovecha al máximo los productos locales de temporada.</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/node_type?resourceVersion=id%3A8"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/relationships/node_type?resourceVersion=id%3A8"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/revision_uid?resourceVersion=id%3A8"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/relationships/revision_uid?resourceVersion=id%3A8"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/uid?resourceVersion=id%3A8"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/relationships/uid?resourceVersion=id%3A8"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "c083c465-7bbd-4a76-b8b1-ffd28708fac7",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/field_media_image?resourceVersion=id%3A8"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/relationships/field_media_image?resourceVersion=id%3A8"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c",
+              "meta": {
+                "drupal_internal__target_id": 33
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/field_recipe_category?resourceVersion=id%3A8"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/relationships/field_recipe_category?resourceVersion=id%3A8"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "a6fc728c-c1ee-4c68-9c48-ffb78b5ab1aa",
+              "meta": {
+                "drupal_internal__target_id": 25
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "bff22cfc-a50e-4c88-a7ae-ebecb6d79a81",
+              "meta": {
+                "drupal_internal__target_id": 28
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/field_tags?resourceVersion=id%3A8"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/6f45d952-ea19-4cc3-9430-6b487074dbf5/relationships/field_tags?resourceVersion=id%3A8"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "64eb60f6-6fd1-4010-98f3-e0454192697e",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e?resourceVersion=id%3A10"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 5,
+        "drupal_internal__vid": 10,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Pastel Victoria",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/pastel-victoria",
+          "pid": 76,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 20,
+        "field_difficulty": "easy",
+        "field_ingredients": [
+          "225g mantequilla o margarina",
+          "225g azúcar en polvo",
+          "225g harina autoniveladora",
+          "4 huevos",
+          "1 cucharadita polvo de hornear",
+          "3 cucharadas mermelada para el relleno",
+          "Azúcar glas para espolvorear la parte superior",
+          "Crema para servir"
+        ],
+        "field_number_of_servings": 10,
+        "field_preparation_time": 20,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Precaliente el horno a 350°F/180°C y engrase dos moldes para pasteles de 8 pulgadas.</li>\n  <li>En un tazón grande, mezcle la mantequilla y el azúcar, luego agregue los huevos, la harina y el polvo para hornear.</li>\n  <li>Distribuya la mezcla uniformemente entre los 2 moldes para pasteles.</li>\n  <li>Coloque ambas moldes en el medio del horno precalentado durante 20 minutos, antes de verificar con un cuchillo. Cuando el cuchillo salga limpio, ¡está listo!</li>\n  <li>Permita que se enfríe en los moldes antes de colocarlos en un estante de enfriamiento.</li>\n  <li>Agregue la mermelada, apile, espolvoree con azúcar glas y sirva con una cucharada grande de crema. ¡Disfruta!</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Precaliente el horno a 350°F/180°C y engrase dos moldes para pasteles de 8 pulgadas.</li>\n<li>En un tazón grande, mezcle la mantequilla y el azúcar, luego agregue los huevos, la harina y el polvo para hornear.</li>\n<li>Distribuya la mezcla uniformemente entre los 2 moldes para pasteles.</li>\n<li>Coloque ambas moldes en el medio del horno precalentado durante 20 minutos, antes de verificar con un cuchillo. Cuando el cuchillo salga limpio, ¡está listo!</li>\n<li>Permita que se enfríe en los moldes antes de colocarlos en un estante de enfriamiento.</li>\n<li>Agregue la mermelada, apile, espolvoree con azúcar glas y sirva con una cucharada grande de crema. ¡Disfruta!</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Un tradicional bizcocho Victoria, perfecto para cualquier tarde con una taza de té.",
+          "format": "basic_html",
+          "processed": "<p>Un tradicional bizcocho Victoria, perfecto para cualquier tarde con una taza de té.</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/node_type?resourceVersion=id%3A10"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/relationships/node_type?resourceVersion=id%3A10"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/revision_uid?resourceVersion=id%3A10"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/relationships/revision_uid?resourceVersion=id%3A10"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/uid?resourceVersion=id%3A10"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/relationships/uid?resourceVersion=id%3A10"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "c87da451-5402-47c2-aaeb-c473e48b884d",
+            "meta": {
+              "drupal_internal__target_id": 5
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/field_media_image?resourceVersion=id%3A10"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/relationships/field_media_image?resourceVersion=id%3A10"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "13980fa8-3f1f-46ce-8cb2-1017de8fd086",
+              "meta": {
+                "drupal_internal__target_id": 30
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/field_recipe_category?resourceVersion=id%3A10"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/relationships/field_recipe_category?resourceVersion=id%3A10"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "0a7026ac-ce41-45d5-ba4f-82939eb1e626",
+              "meta": {
+                "drupal_internal__target_id": 5
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/field_tags?resourceVersion=id%3A10"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/64eb60f6-6fd1-4010-98f3-e0454192697e/relationships/field_tags?resourceVersion=id%3A10"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "bfcbc2ba-d324-4ecc-921b-b2b04a98834c",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c?resourceVersion=id%3A12"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 6,
+        "drupal_internal__vid": 12,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Pizza sin gluten",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/pizza-sin-gluten",
+          "pid": 78,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 15,
+        "field_difficulty": "medium",
+        "field_ingredients": [
+          "400g de harina sin gluten",
+          " 125ml de agua caliente",
+          " 125ml de Leche",
+          " 1 de bolsita levadura",
+          " 12g de azúcar",
+          " 6g de Sal",
+          " 32g de aceite de oliva",
+          " 75g de tomate triturado",
+          " 1 diente de ajo",
+          " Albahaca fresca",
+          " 200g de mozzarella",
+          " 100g de rúcula",
+          " 5 lonchas de jamón de Parma"
+        ],
+        "field_number_of_servings": 4,
+        "field_preparation_time": 15,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Precaliente el horno a 425 ° F / 220 ° C. Mezcle un poco de la leche y el agua en un jarra. Agregue la levadura y el azúcar y apártalos.</li>\n  <li>Mezcle la harina, la sal y el aceite en un bol. Agregue lentamente el líquido de la jarra y forme una masa.</li>\n  <li>Rompa la masa por la mitad y dele forma de dos bases de pizza. Deje reposar durante unos 15 minutos, mientras hace la cobertura.</li>\n  <li>Extienda el tomate triturado sobre las bases de pizza, corte la albahaca y la rúcula y espolvoree sobre el tomate. Distribuya sobre la masa el jamón de Parma picado y agregue rebanadas gruesas de mozzarella por toda la pizza.</li>\n  <li>Hornee en la rejilla superior (con una bandeja debajo) de 10 a 12 minutos o hasta que la mozzarella esté burbujeando. Sazone con sal y pimienta y sirva.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Precaliente el horno a 425 ° F / 220 ° C. Mezcle un poco de la leche y el agua en un jarra. Agregue la levadura y el azúcar y apártalos.</li>\n<li>Mezcle la harina, la sal y el aceite en un bol. Agregue lentamente el líquido de la jarra y forme una masa.</li>\n<li>Rompa la masa por la mitad y dele forma de dos bases de pizza. Deje reposar durante unos 15 minutos, mientras hace la cobertura.</li>\n<li>Extienda el tomate triturado sobre las bases de pizza, corte la albahaca y la rúcula y espolvoree sobre el tomate. Distribuya sobre la masa el jamón de Parma picado y agregue rebanadas gruesas de mozzarella por toda la pizza.</li>\n<li>Hornee en la rejilla superior (con una bandeja debajo) de 10 a 12 minutos o hasta que la mozzarella esté burbujeando. Sazone con sal y pimienta y sirva.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Una vistosa y simple pizza sin gluten, con deliciosa mozzarella y jamón de Parma. Puede convertirse fácilmente en vegetariana si quitamos el jamón.",
+          "format": "basic_html",
+          "processed": "<p>Una vistosa y simple pizza sin gluten, con deliciosa mozzarella y jamón de Parma. Puede convertirse fácilmente en vegetariana si quitamos el jamón.</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/node_type?resourceVersion=id%3A12"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/relationships/node_type?resourceVersion=id%3A12"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/revision_uid?resourceVersion=id%3A12"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/relationships/revision_uid?resourceVersion=id%3A12"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/uid?resourceVersion=id%3A12"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/relationships/uid?resourceVersion=id%3A12"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "d7b56661-a6fd-493b-99df-addff88b5e4d",
+            "meta": {
+              "drupal_internal__target_id": 6
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/field_media_image?resourceVersion=id%3A12"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/relationships/field_media_image?resourceVersion=id%3A12"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "6e2863dc-4be9-4e75-8eb5-9162aa3798c3",
+              "meta": {
+                "drupal_internal__target_id": 31
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/field_recipe_category?resourceVersion=id%3A12"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/relationships/field_recipe_category?resourceVersion=id%3A12"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/field_tags?resourceVersion=id%3A12"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/bfcbc2ba-d324-4ecc-921b-b2b04a98834c/relationships/field_tags?resourceVersion=id%3A12"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "c009c640-d38b-4564-ac67-932bf71fc0b7",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7?resourceVersion=id%3A14"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 7,
+        "drupal_internal__vid": 14,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Curry verde tailandés",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/curry-verde-tailandes",
+          "pid": 80,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 15,
+        "field_difficulty": "medium",
+        "field_ingredients": [
+          "400g de leche de coco",
+          " 400g de pollo o tofu",
+          " 15g de pasta de curry verde tailandés",
+          " 1 diente de ajo",
+          " 10g de salsa de pescado",
+          " 400g de champiñones",
+          " 200g de judías verdes",
+          " Hojas de cilantro fresco",
+          " Arroz jazmín"
+        ],
+        "field_number_of_servings": 4,
+        "field_preparation_time": 10,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>En un wok grande, dorar el pollo, luego bajar el fuego y cocinar suavemente el ajo. Añadir las judías verdes picadas y revolver.</li>\n  <li>Añadir la leche de coco, la pasta de curry verde y la salsa de pescado. Mezclar bien y cocinar a fuego lento.</li>\n  <li>Agregar los champiñones picados y cocinar a fuego lento hasta que el pollo (o tofu) esté cocido.</li>\n  <li>Servir con arroz jazmín y una pizca de cilantro.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>En un wok grande, dorar el pollo, luego bajar el fuego y cocinar suavemente el ajo. Añadir las judías verdes picadas y revolver.</li>\n<li>Añadir la leche de coco, la pasta de curry verde y la salsa de pescado. Mezclar bien y cocinar a fuego lento.</li>\n<li>Agregar los champiñones picados y cocinar a fuego lento hasta que el pollo (o tofu) esté cocido.</li>\n<li>Servir con arroz jazmín y una pizca de cilantro.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Una versión rápida y fácil del clásico curry verde tailandés. ¡Perfecto para una comida entre semana!",
+          "format": "basic_html",
+          "processed": "<p>Una versión rápida y fácil del clásico curry verde tailandés. ¡Perfecto para una comida entre semana!</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/node_type?resourceVersion=id%3A14"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/relationships/node_type?resourceVersion=id%3A14"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/revision_uid?resourceVersion=id%3A14"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/relationships/revision_uid?resourceVersion=id%3A14"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/uid?resourceVersion=id%3A14"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/relationships/uid?resourceVersion=id%3A14"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "0e1620fe-c779-46a4-9b26-2739c94227d7",
+            "meta": {
+              "drupal_internal__target_id": 7
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/field_media_image?resourceVersion=id%3A14"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/relationships/field_media_image?resourceVersion=id%3A14"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "6e2863dc-4be9-4e75-8eb5-9162aa3798c3",
+              "meta": {
+                "drupal_internal__target_id": 31
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/field_recipe_category?resourceVersion=id%3A14"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/relationships/field_recipe_category?resourceVersion=id%3A14"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/field_tags?resourceVersion=id%3A14"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/c009c640-d38b-4564-ac67-932bf71fc0b7/relationships/field_tags?resourceVersion=id%3A14"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "974548a2-1631-401b-9a2f-4461a40cfc81",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81?resourceVersion=id%3A16"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 8,
+        "drupal_internal__vid": 16,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Crema catalana",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/crema-catalana",
+          "pid": 82,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 20,
+        "field_difficulty": "medium",
+        "field_ingredients": [
+          "1l de Leche",
+          " 200g de azúcar",
+          " 6 yemas de huevo",
+          " 30g de Maizena",
+          " 1 rama de canela",
+          " 1 La piel de un limón"
+        ],
+        "field_number_of_servings": 8,
+        "field_preparation_time": 10,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Mezcle las yemas de huevo, el azúcar y la harina de maiz con ⅓ de la leche. En un cazo, hierve el resto de la leche con la ralladura de un limón y la canela.</li>\n  <li>Después de 3 minutos, aparte del fuego y quite el limón y la canela.</li>\n  <li>Ve añadiendo muy despacio la mezcla del huevo sobre la leche utilizando un colador para asegurarse que no hay grumos.</li>\n  <li>Coloque el cazo otra vez en el fuego y, sin dejar de remover, espere hasta que hierva.</li>\n  <li>Una vez que la mezcla ha empezado a espesar, apártalo del fuego y ponlo en recipientes individuales para que enfríe.</li>\n  <li>Para un resultado auténtico, esparza un poco de azúcar y caramelízalo con un soplete de cocina o bajo el gratinador del horno.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Mezcle las yemas de huevo, el azúcar y la harina de maiz con ⅓ de la leche. En un cazo, hierve el resto de la leche con la ralladura de un limón y la canela.</li>\n<li>Después de 3 minutos, aparte del fuego y quite el limón y la canela.</li>\n<li>Ve añadiendo muy despacio la mezcla del huevo sobre la leche utilizando un colador para asegurarse que no hay grumos.</li>\n<li>Coloque el cazo otra vez en el fuego y, sin dejar de remover, espere hasta que hierva.</li>\n<li>Una vez que la mezcla ha empezado a espesar, apártalo del fuego y ponlo en recipientes individuales para que enfríe.</li>\n<li>Para un resultado auténtico, esparza un poco de azúcar y caramelízalo con un soplete de cocina o bajo el gratinador del horno.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Disfruta de esta dulce receta de uno de los postres más antiguos de Europa. ¡Requiere muy pocos ingredientes!",
+          "format": "basic_html",
+          "processed": "<p>Disfruta de esta dulce receta de uno de los postres más antiguos de Europa. ¡Requiere muy pocos ingredientes!</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/node_type?resourceVersion=id%3A16"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/relationships/node_type?resourceVersion=id%3A16"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/revision_uid?resourceVersion=id%3A16"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/relationships/revision_uid?resourceVersion=id%3A16"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/uid?resourceVersion=id%3A16"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/relationships/uid?resourceVersion=id%3A16"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "59ed6920-269b-41d9-93e1-9cd30681af71",
+            "meta": {
+              "drupal_internal__target_id": 8
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/field_media_image?resourceVersion=id%3A16"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/relationships/field_media_image?resourceVersion=id%3A16"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "13980fa8-3f1f-46ce-8cb2-1017de8fd086",
+              "meta": {
+                "drupal_internal__target_id": 30
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/field_recipe_category?resourceVersion=id%3A16"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/relationships/field_recipe_category?resourceVersion=id%3A16"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "0e6011b4-6362-4ee5-adb1-7abde28af104",
+              "meta": {
+                "drupal_internal__target_id": 13
+              }
+            },
+            {
+              "type": "taxonomy_term--tags",
+              "id": "bff22cfc-a50e-4c88-a7ae-ebecb6d79a81",
+              "meta": {
+                "drupal_internal__target_id": 28
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/field_tags?resourceVersion=id%3A16"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/974548a2-1631-401b-9a2f-4461a40cfc81/relationships/field_tags?resourceVersion=id%3A16"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "8a3b5d72-3454-4001-a569-b5b5aab76dee",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee?resourceVersion=id%3A18"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 9,
+        "drupal_internal__vid": 18,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Salsa de chile ardiente",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/salsa-de-chile-ardiente",
+          "pid": 84,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 50,
+        "field_difficulty": "easy",
+        "field_ingredients": [
+          "2 cebollas rojas",
+          " 1 limón",
+          " 2 limas",
+          " 250ml vinagre de malta",
+          " 7 dientes de ajo",
+          " 1 pimiento verde",
+          " 1 pimiento rojo",
+          " 800g tomates cherry",
+          " 30 chiles mezclados",
+          " Aceite de oliva",
+          " 1 cucharada pimienta negra molida",
+          " 1 cucharada azúcar morena"
+        ],
+        "field_number_of_servings": 60,
+        "field_preparation_time": 10,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Precaliente el horno a 400°F/200°C.</li>\n  <li>Picar finamente las cebollas rojas y sudar suavemente a fuego lento en aceite de oliva durante 5 minutos.</li>\n  <li>Pelar el ajo y agregarlo a las cebollas.</li>\n  <li>Mientras tanto, picar los pimientos en trozos de 1 pulgada. Agregue los pimientos y los tomates a un plato para asar, y frote con jugo de limón, aceite de oliva y pimienta negra. Transferir al horno y asar por 30 minutos.</li>\n  <li>Una vez que las cebollas y el ajo se hayan ablandado, pique y agregue los chiles, las semillas y todo. Mezclar bien y continuar friendo suavemente.</li>\n  <li>Lávese bien las manos después de manipular los chiles crudos.</li>\n  <li>Una vez que los tomates y los pimientos hayan terminado de asarse, agréguelos a la sartén. Cocine por al menos 10 minutos, rompiéndolos con un triturador o una batidora de mano mientras se cocinan a fuego lento. Una vez roto, mezclar el azúcar.</li>\n  <li>Transfiera la salsa a una licuadora y mezcle hasta que quede suave.</li>\n  <li>Regresa a la sartén y agrega el vinagre y el jugo de las limas.</li>\n  <li>Cocine por otros 10 minutos, luego deje enfriar.</li>\n  <li>Transfiera a frascos esterilizados y manténgalos refrigerados.</li>\n  <li>Dejar por lo menos dos semanas antes de la degustación.</li>\n</ol>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Precaliente el horno a 400°F/200°C.</li>\n<li>Picar finamente las cebollas rojas y sudar suavemente a fuego lento en aceite de oliva durante 5 minutos.</li>\n<li>Pelar el ajo y agregarlo a las cebollas.</li>\n<li>Mientras tanto, picar los pimientos en trozos de 1 pulgada. Agregue los pimientos y los tomates a un plato para asar, y frote con jugo de limón, aceite de oliva y pimienta negra. Transferir al horno y asar por 30 minutos.</li>\n<li>Una vez que las cebollas y el ajo se hayan ablandado, pique y agregue los chiles, las semillas y todo. Mezclar bien y continuar friendo suavemente.</li>\n<li>Lávese bien las manos después de manipular los chiles crudos.</li>\n<li>Una vez que los tomates y los pimientos hayan terminado de asarse, agréguelos a la sartén. Cocine por al menos 10 minutos, rompiéndolos con un triturador o una batidora de mano mientras se cocinan a fuego lento. Una vez roto, mezclar el azúcar.</li>\n<li>Transfiera la salsa a una licuadora y mezcle hasta que quede suave.</li>\n<li>Regresa a la sartén y agrega el vinagre y el jugo de las limas.</li>\n<li>Cocine por otros 10 minutos, luego deje enfriar.</li>\n<li>Transfiera a frascos esterilizados y manténgalos refrigerados.</li>\n<li>Dejar por lo menos dos semanas antes de la degustación.</li>\n</ol>"
+        },
+        "field_summary": {
+          "value": "Una rica y ardiente salsa de chile. Tenga cuidado al manejar chiles. ¡Y servir con moderación!",
+          "format": "basic_html",
+          "processed": "<p>Una rica y ardiente salsa de chile. Tenga cuidado al manejar chiles. ¡Y servir con moderación!</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/node_type?resourceVersion=id%3A18"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/relationships/node_type?resourceVersion=id%3A18"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/revision_uid?resourceVersion=id%3A18"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/relationships/revision_uid?resourceVersion=id%3A18"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/uid?resourceVersion=id%3A18"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/relationships/uid?resourceVersion=id%3A18"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "cb459c32-3ccc-48a6-9daf-0eb33476b533",
+            "meta": {
+              "drupal_internal__target_id": 9
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/field_media_image?resourceVersion=id%3A18"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/relationships/field_media_image?resourceVersion=id%3A18"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "f9817c87-c348-4c29-b359-bb019d62d684",
+              "meta": {
+                "drupal_internal__target_id": 29
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/field_recipe_category?resourceVersion=id%3A18"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/relationships/field_recipe_category?resourceVersion=id%3A18"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "bff22cfc-a50e-4c88-a7ae-ebecb6d79a81",
+              "meta": {
+                "drupal_internal__target_id": 28
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/field_tags?resourceVersion=id%3A18"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/8a3b5d72-3454-4001-a569-b5b5aab76dee/relationships/field_tags?resourceVersion=id%3A18"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "node--recipe",
+      "id": "28980476-bbcd-493e-b858-f9e02c65e108",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108?resourceVersion=id%3A20"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 10,
+        "drupal_internal__vid": 20,
+        "langcode": "es",
+        "revision_timestamp": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Borscht con costillas de cerdo",
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "promote": true,
+        "sticky": false,
+        "default_langcode": false,
+        "revision_translation_affected": true,
+        "moderation_state": "published",
+        "path": {
+          "alias": "/recipes/borscht-con-costillas-de-cerdo",
+          "pid": 86,
+          "langcode": "es"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "field_cooking_time": 60,
+        "field_difficulty": "medium",
+        "field_ingredients": [
+          "400-500g de costillas de cerdo",
+          " 2 remolachas",
+          " 2 tomates",
+          " ¼ de raíz de apio",
+          " ¼ de repollo",
+          " 3-4 patatas medianas",
+          " 1 zanahoria",
+          " 1 cebolla",
+          " 1-2 peras ahumadas",
+          " 2 hojas de laurel",
+          " 3 guisantes de pimienta de Jamaica",
+          " 1 cabeza de ajo",
+          " 1 pimiento morrón",
+          " 200ml de jugo de tomate",
+          " 30g de mantequilla",
+          " 2 cucharadas de pasta de tomate",
+          " 3l de agua",
+          " Crema agria",
+          " 1 lata de alubias",
+          " Sal al gusto"
+        ],
+        "field_number_of_servings": 8,
+        "field_preparation_time": 30,
+        "field_recipe_instruction": {
+          "value": "<ol>\n  <li>Precaliente el horno a 400°F/200°C, luego coloque las costillas de cerdo en su interior y hornéelas durante 30 min. Lave la raíz del apio, pero no la pele. Coja la zanahoria y córtela en trozos medianos.</li>\n  <li>Ponga las costillas de cerdo al horno en una olla y añada 3 litros de agua. Agregue la raíz de apio cortada y la zanahoria junto con la mitad de la cebolla sin pelar. Lleve la olla a ebullición. Después de eso, caliente a fuego medio y siga hirviendo durante 30 min.</li>\n  <li>El corazón del borscht son las verduras asadas previamente. Pique el pimiento morrón y haga lo mismo con los tomates y la cebolla. Coloque la mantequilla en una cacerola y agregue las verduras. Cocínelos a fuego moderado para ablandar los vegetales, luego agregue dos cucharadas de pasta de tomate, baje el fuego y siga guisándolos durante 5 a 7 minutos. Además, ralle una remolacha y póngala en la cacerola también y cocínelas todas juntas durante 3-4 minutos más.</li>\n  <li>Corte un diente de ajo por la mitad y agréguelo a la olla. Triture el repollo y déjelo a un lado para agregarlo más tarde.</li>\n  <li>Se necesita jugo de remolacha, así que tome la segunda remolacha y exprima todo el jugo. Si no tiene un exprimidor de jugo, puede rallar una remolacha y exprimirla a través del colador. Luego agregue el jugo junto con la pimienta de Jamaica, las hojas de laurel y varias pizcas de sal (a su gusto).</li>\n  <li>También puede agregar frijoles enlatados: es una adición opcional.</li>\n  <li>Ponga las peras ahumadas en una olla. Harán que el plato huela a humo.</li>\n  <li>Felicitaciones, nuestro borscht está casi listo. Ahora puede agregar repollo rallado y en cinco minutos puede dejar la olla a un lado del fuego. Guarde el borscht durante 30 minutos.</li>\n</ol>\n<p>Sirva el borscht junto con una cucharada de crema agria y eneldo picado. Ponga el resto del borscht en la nevera y recuerde que sabe mejor al día siguiente.</p>\n",
+          "format": "basic_html",
+          "processed": "<ol><li>Precaliente el horno a 400°F/200°C, luego coloque las costillas de cerdo en su interior y hornéelas durante 30 min. Lave la raíz del apio, pero no la pele. Coja la zanahoria y córtela en trozos medianos.</li>\n<li>Ponga las costillas de cerdo al horno en una olla y añada 3 litros de agua. Agregue la raíz de apio cortada y la zanahoria junto con la mitad de la cebolla sin pelar. Lleve la olla a ebullición. Después de eso, caliente a fuego medio y siga hirviendo durante 30 min.</li>\n<li>El corazón del borscht son las verduras asadas previamente. Pique el pimiento morrón y haga lo mismo con los tomates y la cebolla. Coloque la mantequilla en una cacerola y agregue las verduras. Cocínelos a fuego moderado para ablandar los vegetales, luego agregue dos cucharadas de pasta de tomate, baje el fuego y siga guisándolos durante 5 a 7 minutos. Además, ralle una remolacha y póngala en la cacerola también y cocínelas todas juntas durante 3-4 minutos más.</li>\n<li>Corte un diente de ajo por la mitad y agréguelo a la olla. Triture el repollo y déjelo a un lado para agregarlo más tarde.</li>\n<li>Se necesita jugo de remolacha, así que tome la segunda remolacha y exprima todo el jugo. Si no tiene un exprimidor de jugo, puede rallar una remolacha y exprimirla a través del colador. Luego agregue el jugo junto con la pimienta de Jamaica, las hojas de laurel y varias pizcas de sal (a su gusto).</li>\n<li>También puede agregar frijoles enlatados: es una adición opcional.</li>\n<li>Ponga las peras ahumadas en una olla. Harán que el plato huela a humo.</li>\n<li>Felicitaciones, nuestro borscht está casi listo. Ahora puede agregar repollo rallado y en cinco minutos puede dejar la olla a un lado del fuego. Guarde el borscht durante 30 minutos.</li>\n</ol><p>Sirva el borscht junto con una cucharada de crema agria y eneldo picado. Ponga el resto del borscht en la nevera y recuerde que sabe mejor al día siguiente.</p>\n"
+        },
+        "field_summary": {
+          "value": "Puedo hablar de borscht todo el día. Cada familia ucraniana tiene su receta: con frijoles, sin repollo, etc. Sin embargo, todas son válidas: no existe una receta 'correcta' unificada. La receta que está a punto de leer y cocinar es borscht con costillas de cerdo. Disfrútala. ¡Este plato le hará sentir una verdadera alma ucraniana!",
+          "format": "basic_html",
+          "processed": "<p>Puedo hablar de borscht todo el día. Cada familia ucraniana tiene su receta: con frijoles, sin repollo, etc. Sin embargo, todas son válidas: no existe una receta 'correcta' unificada. La receta que está a punto de leer y cocinar es borscht con costillas de cerdo. Disfrútala. ¡Este plato le hará sentir una verdadera alma ucraniana!</p>\n"
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9b26ee18-b075-4223-bdee-7c50e7865b5a",
+            "meta": {
+              "drupal_internal__target_id": "recipe"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/node_type?resourceVersion=id%3A20"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/relationships/node_type?resourceVersion=id%3A20"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/revision_uid?resourceVersion=id%3A20"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/relationships/revision_uid?resourceVersion=id%3A20"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+            "meta": {
+              "drupal_internal__target_id": 4
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/uid?resourceVersion=id%3A20"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/relationships/uid?resourceVersion=id%3A20"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "dc114973-65c0-4a89-90cd-62235ada0553",
+            "meta": {
+              "drupal_internal__target_id": 21
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/field_media_image?resourceVersion=id%3A20"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/relationships/field_media_image?resourceVersion=id%3A20"
+            }
+          }
+        },
+        "field_recipe_category": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "6e2863dc-4be9-4e75-8eb5-9162aa3798c3",
+              "meta": {
+                "drupal_internal__target_id": 31
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/field_recipe_category?resourceVersion=id%3A20"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/relationships/field_recipe_category?resourceVersion=id%3A20"
+            }
+          }
+        },
+        "field_tags": {
+          "data": [
+            {
+              "type": "taxonomy_term--tags",
+              "id": "a6fc728c-c1ee-4c68-9c48-ffb78b5ab1aa",
+              "meta": {
+                "drupal_internal__target_id": 25
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/field_tags?resourceVersion=id%3A20"
+            },
+            "self": {
+              "href": "http://localhost:3001/es/jsonapi/node/recipe/28980476-bbcd-493e-b858-f9e02c65e108/relationships/field_tags?resourceVersion=id%3A20"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/node/recipe"
+    }
+  }
+}

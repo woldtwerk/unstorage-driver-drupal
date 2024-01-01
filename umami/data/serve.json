@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/:lang/jsonapi", "destination": "/:lang/jsonapi/index.json" },
+    { "source": "/:lang/jsonapi/:type/:bundle", "destination": "/:lang/jsonapi/:type/:bundle.json" },
+    { "source": "/:lang/system/menu/:menu/linkset", "destination": "/:lang/system/menu/:menu/linkset.json" }
+  ]
+}

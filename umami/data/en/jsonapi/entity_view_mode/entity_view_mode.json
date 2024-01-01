@@ -1,0 +1,154 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--8OdZugZ": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/aac07701-b854-4d0d-a033-bbbd7610c447",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--1QxBxHQ": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/3178e51d-7dd9-43ef-83a2-8bd2015ae1a8",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--LEX4nb1": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/ad21aee4-7238-457b-bd85-f830937f7678",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--9MLZRwP": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/c57d47d3-9394-4e27-bc93-ee7de2cf52ea",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--LGItd3C": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/54e549b3-59ca-4e07-973d-cf06cd653d60",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--tvcoT9d": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/68079b9f-7428-44ed-bd50-8237c0e9f3d9",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--6mqwX0k": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/fac4c7ec-db91-432f-80f5-ff91554a489a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--zpB5ldC": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/2e22c963-0691-481f-9c53-d17d94be46b9",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--GuHPpEH": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/656c3f74-97c7-4cdd-b1fb-f1f29431bc42",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--YRXY4PK": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/99b4e26f-2f6c-43a8-958f-9e6fb919d459",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--ZzWrbOB": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/475f2b64-e33e-4003-95d7-f674c478127b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--jDn1KFj": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/f52f86fa-1749-489c-b725-93a7174e2ab6",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--uitCZfO": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/3b4ec9f6-d768-481b-84bc-df2dcb4322d6",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--LWOh6Oo": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/472424bf-ed79-4203-8511-b60c8e497aaa",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--2fCUTc3": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/706b1a74-031a-4552-863a-716f0cd7d997",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--BkriOQw": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/14d2c39e-5f39-491e-924c-1075b9f33a11",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--XNpQUWW": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/6a658eac-4d92-4eb6-a31e-5fbb419a0709",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        },
+        "item--LzF39hD": {
+          "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode/f6a17249-4a3a-4388-893a-b8107ea324fd",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer display modes' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/entity_view_mode/entity_view_mode"
+    }
+  }
+}

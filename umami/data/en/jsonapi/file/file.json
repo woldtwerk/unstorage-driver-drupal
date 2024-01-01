@@ -1,0 +1,1531 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "file--file",
+      "id": "97e8ad68-94b2-4b17-b7bb-b19907ff9e69",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/97e8ad68-94b2-4b17-b7bb-b19907ff9e69"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 1,
+        "langcode": "en",
+        "filename": "mediterranean-quiche-umami.jpg",
+        "uri": {
+          "value": "public://mediterranean-quiche-umami.jpg",
+          "url": "/sites/default/files/mediterranean-quiche-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 70160,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/97e8ad68-94b2-4b17-b7bb-b19907ff9e69/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/97e8ad68-94b2-4b17-b7bb-b19907ff9e69/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "8b06a185-5128-4bf6-8563-c3db5b1d2483",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/8b06a185-5128-4bf6-8563-c3db5b1d2483"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 2,
+        "langcode": "en",
+        "filename": "mediterranean-quiche-umami.jpg",
+        "uri": {
+          "value": "public://mediterranean-quiche-umami.jpg",
+          "url": "/sites/default/files/mediterranean-quiche-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 70160,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/8b06a185-5128-4bf6-8563-c3db5b1d2483/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/8b06a185-5128-4bf6-8563-c3db5b1d2483/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "71ad9201-2ac7-410f-b223-90bc9f0adf28",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/71ad9201-2ac7-410f-b223-90bc9f0adf28"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 3,
+        "langcode": "en",
+        "filename": "vegan-chocolate-nut-brownies.jpg",
+        "uri": {
+          "value": "public://vegan-chocolate-nut-brownies.jpg",
+          "url": "/sites/default/files/vegan-chocolate-nut-brownies.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 109982,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/71ad9201-2ac7-410f-b223-90bc9f0adf28/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/71ad9201-2ac7-410f-b223-90bc9f0adf28/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "afde3658-5e36-4a49-8e93-258998060ed9",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/afde3658-5e36-4a49-8e93-258998060ed9"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 4,
+        "langcode": "en",
+        "filename": "vegan-chocolate-nut-brownies.jpg",
+        "uri": {
+          "value": "public://vegan-chocolate-nut-brownies.jpg",
+          "url": "/sites/default/files/vegan-chocolate-nut-brownies.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 109982,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/afde3658-5e36-4a49-8e93-258998060ed9/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/afde3658-5e36-4a49-8e93-258998060ed9/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "74725e2c-93e7-4e0e-9890-a3834c03fa0d",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/74725e2c-93e7-4e0e-9890-a3834c03fa0d"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 5,
+        "langcode": "en",
+        "filename": "veggie-pasta-bake-umami.jpg",
+        "uri": {
+          "value": "public://veggie-pasta-bake-umami.jpg",
+          "url": "/sites/default/files/veggie-pasta-bake-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 102082,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/74725e2c-93e7-4e0e-9890-a3834c03fa0d/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/74725e2c-93e7-4e0e-9890-a3834c03fa0d/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "920a5574-8b9e-4816-ac2e-60fd69770b7a",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/920a5574-8b9e-4816-ac2e-60fd69770b7a"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 6,
+        "langcode": "en",
+        "filename": "veggie-pasta-bake-umami.jpg",
+        "uri": {
+          "value": "public://veggie-pasta-bake-umami.jpg",
+          "url": "/sites/default/files/veggie-pasta-bake-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 102082,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/920a5574-8b9e-4816-ac2e-60fd69770b7a/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/920a5574-8b9e-4816-ac2e-60fd69770b7a/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "c52f07e0-5207-404b-8abd-7fd911660129",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/c52f07e0-5207-404b-8abd-7fd911660129"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 7,
+        "langcode": "en",
+        "filename": "watercress-soup-umami.jpg",
+        "uri": {
+          "value": "public://watercress-soup-umami.jpg",
+          "url": "/sites/default/files/watercress-soup-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 31072,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c52f07e0-5207-404b-8abd-7fd911660129/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c52f07e0-5207-404b-8abd-7fd911660129/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "3895c832-8a92-4d21-9ce5-c3bc9ffb65eb",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/3895c832-8a92-4d21-9ce5-c3bc9ffb65eb"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 8,
+        "langcode": "en",
+        "filename": "watercress-soup-umami.jpg",
+        "uri": {
+          "value": "public://watercress-soup-umami.jpg",
+          "url": "/sites/default/files/watercress-soup-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 31072,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/3895c832-8a92-4d21-9ce5-c3bc9ffb65eb/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/3895c832-8a92-4d21-9ce5-c3bc9ffb65eb/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "c5a981a5-3b14-46d5-97d4-38e8e8f60748",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/c5a981a5-3b14-46d5-97d4-38e8e8f60748"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 9,
+        "langcode": "en",
+        "filename": "victoria-sponge-umami.jpg",
+        "uri": {
+          "value": "public://victoria-sponge-umami.jpg",
+          "url": "/sites/default/files/victoria-sponge-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 65418,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c5a981a5-3b14-46d5-97d4-38e8e8f60748/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c5a981a5-3b14-46d5-97d4-38e8e8f60748/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "e5e44d57-14a1-4b83-b5fe-14a741953c66",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/e5e44d57-14a1-4b83-b5fe-14a741953c66"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 10,
+        "langcode": "en",
+        "filename": "victoria-sponge-umami.jpg",
+        "uri": {
+          "value": "public://victoria-sponge-umami.jpg",
+          "url": "/sites/default/files/victoria-sponge-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 65418,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/e5e44d57-14a1-4b83-b5fe-14a741953c66/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/e5e44d57-14a1-4b83-b5fe-14a741953c66/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "905f5fdf-18e4-43f6-9cd3-c4c83ad3922e",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/905f5fdf-18e4-43f6-9cd3-c4c83ad3922e"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 11,
+        "langcode": "en",
+        "filename": "pizza-umami.jpg",
+        "uri": {
+          "value": "public://pizza-umami.jpg",
+          "url": "/sites/default/files/pizza-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 81301,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/905f5fdf-18e4-43f6-9cd3-c4c83ad3922e/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/905f5fdf-18e4-43f6-9cd3-c4c83ad3922e/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "cc00d997-cd57-4170-8c01-17514687b65a",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/cc00d997-cd57-4170-8c01-17514687b65a"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 12,
+        "langcode": "en",
+        "filename": "pizza-umami.jpg",
+        "uri": {
+          "value": "public://pizza-umami.jpg",
+          "url": "/sites/default/files/pizza-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 81301,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/cc00d997-cd57-4170-8c01-17514687b65a/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/cc00d997-cd57-4170-8c01-17514687b65a/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "bb4c92e6-2de5-4ef3-907c-64a8a88b716e",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/bb4c92e6-2de5-4ef3-907c-64a8a88b716e"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 13,
+        "langcode": "en",
+        "filename": "thai-green-curry-umami.jpg",
+        "uri": {
+          "value": "public://thai-green-curry-umami.jpg",
+          "url": "/sites/default/files/thai-green-curry-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 38674,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/bb4c92e6-2de5-4ef3-907c-64a8a88b716e/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/bb4c92e6-2de5-4ef3-907c-64a8a88b716e/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "8cf189fc-1780-436b-a50f-5e6646397dc5",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/8cf189fc-1780-436b-a50f-5e6646397dc5"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 14,
+        "langcode": "en",
+        "filename": "thai-green-curry-umami.jpg",
+        "uri": {
+          "value": "public://thai-green-curry-umami.jpg",
+          "url": "/sites/default/files/thai-green-curry-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 38674,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/8cf189fc-1780-436b-a50f-5e6646397dc5/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/8cf189fc-1780-436b-a50f-5e6646397dc5/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "8e556660-a2ad-4572-801a-5d095f36ec42",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/8e556660-a2ad-4572-801a-5d095f36ec42"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 15,
+        "langcode": "en",
+        "filename": "crema-catalana-umami.jpg",
+        "uri": {
+          "value": "public://crema-catalana-umami.jpg",
+          "url": "/sites/default/files/crema-catalana-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 62307,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/8e556660-a2ad-4572-801a-5d095f36ec42/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/8e556660-a2ad-4572-801a-5d095f36ec42/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "aebddbcb-e7bc-41b0-b605-1a13f4a0d761",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/aebddbcb-e7bc-41b0-b605-1a13f4a0d761"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 16,
+        "langcode": "en",
+        "filename": "crema-catalana-umami.jpg",
+        "uri": {
+          "value": "public://crema-catalana-umami.jpg",
+          "url": "/sites/default/files/crema-catalana-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 62307,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/aebddbcb-e7bc-41b0-b605-1a13f4a0d761/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/aebddbcb-e7bc-41b0-b605-1a13f4a0d761/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "6cef2745-b339-4a37-bca4-4288da1750f2",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/6cef2745-b339-4a37-bca4-4288da1750f2"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 17,
+        "langcode": "en",
+        "filename": "chili-sauce-umami.jpg",
+        "uri": {
+          "value": "public://chili-sauce-umami.jpg",
+          "url": "/sites/default/files/chili-sauce-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 100481,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/6cef2745-b339-4a37-bca4-4288da1750f2/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/6cef2745-b339-4a37-bca4-4288da1750f2/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "95442d1d-6b02-479e-8121-74f6aadcbe30",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/95442d1d-6b02-479e-8121-74f6aadcbe30"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 18,
+        "langcode": "en",
+        "filename": "chili-sauce-umami.jpg",
+        "uri": {
+          "value": "public://chili-sauce-umami.jpg",
+          "url": "/sites/default/files/chili-sauce-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 100481,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/95442d1d-6b02-479e-8121-74f6aadcbe30/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/95442d1d-6b02-479e-8121-74f6aadcbe30/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "a4214091-b343-42df-857e-6b62e1e195da",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/a4214091-b343-42df-857e-6b62e1e195da"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 19,
+        "langcode": "en",
+        "filename": "home-grown-herbs.jpg",
+        "uri": {
+          "value": "public://home-grown-herbs.jpg",
+          "url": "/sites/default/files/home-grown-herbs.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 114984,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/a4214091-b343-42df-857e-6b62e1e195da/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/a4214091-b343-42df-857e-6b62e1e195da/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "05806282-2032-41bc-ba5b-3a15b882934e",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/05806282-2032-41bc-ba5b-3a15b882934e"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 20,
+        "langcode": "en",
+        "filename": "home-grown-herbs.jpg",
+        "uri": {
+          "value": "public://home-grown-herbs.jpg",
+          "url": "/sites/default/files/home-grown-herbs.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 114984,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/05806282-2032-41bc-ba5b-3a15b882934e/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/05806282-2032-41bc-ba5b-3a15b882934e/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "af622393-2a47-41f0-ab4d-2c78b2fb6f63",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/af622393-2a47-41f0-ab4d-2c78b2fb6f63"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 21,
+        "langcode": "en",
+        "filename": "vegan-chocolate.jpg",
+        "uri": {
+          "value": "public://vegan-chocolate.jpg",
+          "url": "/sites/default/files/vegan-chocolate.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 65650,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/af622393-2a47-41f0-ab4d-2c78b2fb6f63/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/af622393-2a47-41f0-ab4d-2c78b2fb6f63/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "c3f92f0e-faad-4a74-a49c-11045722b2f6",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/c3f92f0e-faad-4a74-a49c-11045722b2f6"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 22,
+        "langcode": "en",
+        "filename": "vegan-chocolate.jpg",
+        "uri": {
+          "value": "public://vegan-chocolate.jpg",
+          "url": "/sites/default/files/vegan-chocolate.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 65650,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c3f92f0e-faad-4a74-a49c-11045722b2f6/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c3f92f0e-faad-4a74-a49c-11045722b2f6/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "03c1c1d0-cf98-4ca7-aba7-1e7b8cea3eb8",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/03c1c1d0-cf98-4ca7-aba7-1e7b8cea3eb8"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 23,
+        "langcode": "en",
+        "filename": "supermarket-savvy-umami.jpg",
+        "uri": {
+          "value": "public://supermarket-savvy-umami.jpg",
+          "url": "/sites/default/files/supermarket-savvy-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 100645,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/03c1c1d0-cf98-4ca7-aba7-1e7b8cea3eb8/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/03c1c1d0-cf98-4ca7-aba7-1e7b8cea3eb8/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "55794271-887c-4086-aa4a-cad431376b23",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/55794271-887c-4086-aa4a-cad431376b23"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 24,
+        "langcode": "en",
+        "filename": "supermarket-savvy-umami.jpg",
+        "uri": {
+          "value": "public://supermarket-savvy-umami.jpg",
+          "url": "/sites/default/files/supermarket-savvy-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 100645,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/55794271-887c-4086-aa4a-cad431376b23/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/55794271-887c-4086-aa4a-cad431376b23/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "d6687310-29ce-469e-b06f-7e5805f5cd05",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/d6687310-29ce-469e-b06f-7e5805f5cd05"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 25,
+        "langcode": "en",
+        "filename": "mushrooms-umami.jpg",
+        "uri": {
+          "value": "public://mushrooms-umami.jpg",
+          "url": "/sites/default/files/mushrooms-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 92740,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/d6687310-29ce-469e-b06f-7e5805f5cd05/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/d6687310-29ce-469e-b06f-7e5805f5cd05/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "c782b214-36a9-432c-b984-fd2c70f9471c",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/c782b214-36a9-432c-b984-fd2c70f9471c"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 26,
+        "langcode": "en",
+        "filename": "mushrooms-umami.jpg",
+        "uri": {
+          "value": "public://mushrooms-umami.jpg",
+          "url": "/sites/default/files/mushrooms-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 92740,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c782b214-36a9-432c-b984-fd2c70f9471c/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c782b214-36a9-432c-b984-fd2c70f9471c/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "47949e73-0fb3-4ebc-b840-f7743e2c8afd",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/47949e73-0fb3-4ebc-b840-f7743e2c8afd"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 27,
+        "langcode": "en",
+        "filename": "heritage-carrots.jpg",
+        "uri": {
+          "value": "public://heritage-carrots.jpg",
+          "url": "/sites/default/files/heritage-carrots.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 36372,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/47949e73-0fb3-4ebc-b840-f7743e2c8afd/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/47949e73-0fb3-4ebc-b840-f7743e2c8afd/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "e0228883-87c7-49e4-833c-410ccb23cce0",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/e0228883-87c7-49e4-833c-410ccb23cce0"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 28,
+        "langcode": "en",
+        "filename": "heritage-carrots.jpg",
+        "uri": {
+          "value": "public://heritage-carrots.jpg",
+          "url": "/sites/default/files/heritage-carrots.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 36372,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/e0228883-87c7-49e4-833c-410ccb23cce0/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/e0228883-87c7-49e4-833c-410ccb23cce0/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "1cb14376-e694-47c9-9c57-656df145ea25",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/1cb14376-e694-47c9-9c57-656df145ea25"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 29,
+        "langcode": "en",
+        "filename": "chocolate-brownie-umami.jpg",
+        "uri": {
+          "value": "public://chocolate-brownie-umami.jpg",
+          "url": "/sites/default/files/chocolate-brownie-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 30431,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/1cb14376-e694-47c9-9c57-656df145ea25/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/1cb14376-e694-47c9-9c57-656df145ea25/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "0ee76a80-dea8-4344-a97e-f4a168726541",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/0ee76a80-dea8-4344-a97e-f4a168726541"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 30,
+        "langcode": "en",
+        "filename": "chocolate-brownie-umami.jpg",
+        "uri": {
+          "value": "public://chocolate-brownie-umami.jpg",
+          "url": "/sites/default/files/chocolate-brownie-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 30431,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/0ee76a80-dea8-4344-a97e-f4a168726541/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/0ee76a80-dea8-4344-a97e-f4a168726541/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "abc706e8-a0ad-4494-9adb-ac3d97dfe8c1",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/abc706e8-a0ad-4494-9adb-ac3d97dfe8c1"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 31,
+        "langcode": "en",
+        "filename": "mojito-mocktail.jpg",
+        "uri": {
+          "value": "public://mojito-mocktail.jpg",
+          "url": "/sites/default/files/mojito-mocktail.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 49938,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/abc706e8-a0ad-4494-9adb-ac3d97dfe8c1/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/abc706e8-a0ad-4494-9adb-ac3d97dfe8c1/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "926c2ade-5100-4295-a323-e025053210fb",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/926c2ade-5100-4295-a323-e025053210fb"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 32,
+        "langcode": "en",
+        "filename": "mojito-mocktail.jpg",
+        "uri": {
+          "value": "public://mojito-mocktail.jpg",
+          "url": "/sites/default/files/mojito-mocktail.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 49938,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/926c2ade-5100-4295-a323-e025053210fb/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/926c2ade-5100-4295-a323-e025053210fb/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "244f31e7-135a-47b4-8dc8-cdcc417698ec",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/244f31e7-135a-47b4-8dc8-cdcc417698ec"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 33,
+        "langcode": "en",
+        "filename": "oatmeal-fruit-syrup-topping.jpg",
+        "uri": {
+          "value": "public://oatmeal-fruit-syrup-topping.jpg",
+          "url": "/sites/default/files/oatmeal-fruit-syrup-topping.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 76171,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/244f31e7-135a-47b4-8dc8-cdcc417698ec/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/244f31e7-135a-47b4-8dc8-cdcc417698ec/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "b477831c-f2e3-4c5c-ac11-9353a1532905",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/b477831c-f2e3-4c5c-ac11-9353a1532905"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 34,
+        "langcode": "en",
+        "filename": "oatmeal-fruit-syrup-topping.jpg",
+        "uri": {
+          "value": "public://oatmeal-fruit-syrup-topping.jpg",
+          "url": "/sites/default/files/oatmeal-fruit-syrup-topping.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 76171,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/b477831c-f2e3-4c5c-ac11-9353a1532905/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/b477831c-f2e3-4c5c-ac11-9353a1532905/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "c0161a6d-9c7f-498e-bbf5-853f2191eb88",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/c0161a6d-9c7f-498e-bbf5-853f2191eb88"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 35,
+        "langcode": "en",
+        "filename": "veggie-pasta-bake-hero-umami.jpg",
+        "uri": {
+          "value": "public://veggie-pasta-bake-hero-umami.jpg",
+          "url": "/sites/default/files/veggie-pasta-bake-hero-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 225830,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c0161a6d-9c7f-498e-bbf5-853f2191eb88/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/c0161a6d-9c7f-498e-bbf5-853f2191eb88/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "e0bbb6e5-b1d6-4cde-a243-3fd19a7a2825",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/e0bbb6e5-b1d6-4cde-a243-3fd19a7a2825"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 36,
+        "langcode": "en",
+        "filename": "veggie-pasta-bake-hero-umami.jpg",
+        "uri": {
+          "value": "public://veggie-pasta-bake-hero-umami.jpg",
+          "url": "/sites/default/files/veggie-pasta-bake-hero-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 225830,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/e0bbb6e5-b1d6-4cde-a243-3fd19a7a2825/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/e0bbb6e5-b1d6-4cde-a243-3fd19a7a2825/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "b6199fa1-1abf-4ce4-8ffb-f9ded8bf0925",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/b6199fa1-1abf-4ce4-8ffb-f9ded8bf0925"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 37,
+        "langcode": "en",
+        "filename": "umami-bundle.png",
+        "uri": {
+          "value": "public://umami-bundle.png",
+          "url": "/sites/default/files/umami-bundle.png"
+        },
+        "filemime": "image/png",
+        "filesize": 30490,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/b6199fa1-1abf-4ce4-8ffb-f9ded8bf0925/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/b6199fa1-1abf-4ce4-8ffb-f9ded8bf0925/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "d3e92718-5905-497e-88c9-94febc54317c",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/d3e92718-5905-497e-88c9-94febc54317c"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 38,
+        "langcode": "en",
+        "filename": "umami-bundle.png",
+        "uri": {
+          "value": "public://umami-bundle.png",
+          "url": "/sites/default/files/umami-bundle.png"
+        },
+        "filemime": "image/png",
+        "filesize": 30490,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/d3e92718-5905-497e-88c9-94febc54317c/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/d3e92718-5905-497e-88c9-94febc54317c/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "7b94b9dc-159a-426c-9b18-8698151ae86a",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/7b94b9dc-159a-426c-9b18-8698151ae86a"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 39,
+        "langcode": "en",
+        "filename": "vegan-brownies-hero-umami.jpg",
+        "uri": {
+          "value": "public://vegan-brownies-hero-umami.jpg",
+          "url": "/sites/default/files/vegan-brownies-hero-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 261638,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/7b94b9dc-159a-426c-9b18-8698151ae86a/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/7b94b9dc-159a-426c-9b18-8698151ae86a/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "2425f714-99e8-4ea6-beda-af535f15764c",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/2425f714-99e8-4ea6-beda-af535f15764c"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 40,
+        "langcode": "en",
+        "filename": "vegan-brownies-hero-umami.jpg",
+        "uri": {
+          "value": "public://vegan-brownies-hero-umami.jpg",
+          "url": "/sites/default/files/vegan-brownies-hero-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 261638,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/2425f714-99e8-4ea6-beda-af535f15764c/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/2425f714-99e8-4ea6-beda-af535f15764c/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "b9baa12c-4c50-4241-a61d-ba6ee15736a3",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/b9baa12c-4c50-4241-a61d-ba6ee15736a3"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 41,
+        "langcode": "en",
+        "filename": "borscht-with-pork-ribs-umami.jpg",
+        "uri": {
+          "value": "public://borscht-with-pork-ribs-umami.jpg",
+          "url": "/sites/default/files/borscht-with-pork-ribs-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 66852,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/b9baa12c-4c50-4241-a61d-ba6ee15736a3/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/b9baa12c-4c50-4241-a61d-ba6ee15736a3/relationships/uid"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "file--file",
+      "id": "2664d3e6-2b09-4658-ac4e-39df8282e0bf",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/file/file/2664d3e6-2b09-4658-ac4e-39df8282e0bf"
+        }
+      },
+      "attributes": {
+        "drupal_internal__fid": 42,
+        "langcode": "en",
+        "filename": "borscht-with-pork-ribs-umami.jpg",
+        "uri": {
+          "value": "public://borscht-with-pork-ribs-umami.jpg",
+          "url": "/sites/default/files/borscht-with-pork-ribs-umami.jpg"
+        },
+        "filemime": "image/jpeg",
+        "filesize": 66852,
+        "status": true,
+        "created": "2023-12-01T12:58:37+00:00",
+        "changed": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "uid": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/2664d3e6-2b09-4658-ac4e-39df8282e0bf/uid"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/file/file/2664d3e6-2b09-4658-ac4e-39df8282e0bf/relationships/uid"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/file/file"
+    }
+  }
+}

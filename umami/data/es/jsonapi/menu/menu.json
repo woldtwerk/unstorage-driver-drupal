@@ -1,0 +1,79 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "menu--menu",
+      "id": "15c3f0a8-055f-40fe-90c7-6ff70ac1ab19",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/menu/menu/15c3f0a8-055f-40fe-90c7-6ff70ac1ab19"
+        }
+      },
+      "attributes": {
+        "label": "Menú de cuenta de usuario"
+      }
+    },
+    {
+      "type": "menu--menu",
+      "id": "0f7cc377-4156-4fd9-b476-658f22ffc7ea",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/menu/menu/0f7cc377-4156-4fd9-b476-658f22ffc7ea"
+        }
+      },
+      "attributes": {
+        "label": "Administración"
+      }
+    },
+    {
+      "type": "menu--menu",
+      "id": "e19ccc0c-539a-4925-9c00-65ab877b2387",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/menu/menu/e19ccc0c-539a-4925-9c00-65ab877b2387"
+        }
+      },
+      "attributes": {
+        "label": "Pie de página"
+      }
+    },
+    {
+      "type": "menu--menu",
+      "id": "f67b50e1-539c-400b-a433-b9a113d4c5db",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/menu/menu/f67b50e1-539c-400b-a433-b9a113d4c5db"
+        }
+      },
+      "attributes": {
+        "label": "Navegación principal"
+      }
+    },
+    {
+      "type": "menu--menu",
+      "id": "0541b8dd-2ce2-4be3-9926-c8fa95d4c750",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/menu/menu/0541b8dd-2ce2-4be3-9926-c8fa95d4c750"
+        }
+      },
+      "attributes": {
+        "label": "Herramientas"
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/menu/menu"
+    }
+  }
+}

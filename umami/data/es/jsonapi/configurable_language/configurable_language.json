@@ -1,0 +1,56 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--4oEUnRA": {
+          "href": "http://localhost:3001/es/jsonapi/configurable_language/configurable_language/1dd3d49d-edb6-49f7-bac5-618543ceb00d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--kzKb1iz": {
+          "href": "http://localhost:3001/es/jsonapi/configurable_language/configurable_language/e471600e-31fb-4280-9a5f-61cac3b14e6a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--Hzzk0bB": {
+          "href": "http://localhost:3001/es/jsonapi/configurable_language/configurable_language/ef1ebca7-febf-417c-be11-b394a2398d0a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        },
+        "item--7YWjcnc": {
+          "href": "http://localhost:3001/es/jsonapi/configurable_language/configurable_language/791a859f-06df-4a8d-8049-6133e0ea3258",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer languages' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/configurable_language/configurable_language"
+    }
+  }
+}

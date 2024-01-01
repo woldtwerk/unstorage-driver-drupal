@@ -1,0 +1,42 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--gqFDxp5": {
+          "href": "http://localhost:3001/es/jsonapi/editor/editor/f5cce370-bb92-491d-8a6b-d7746af5b8a9",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer filters' permission is required."
+          }
+        },
+        "item--WDJS5IQ": {
+          "href": "http://localhost:3001/es/jsonapi/editor/editor/faf7517c-b5ae-4a34-9515-9745b08675db",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer filters' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/editor/editor"
+    }
+  }
+}

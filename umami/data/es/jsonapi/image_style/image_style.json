@@ -1,0 +1,182 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--2ORQFqw": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/238f95c0-decf-47dc-9ff7-81a7dcc2a129",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--gfp1ixq": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/ca2ea0a0-2f20-445a-8a82-7b2a84d6c975",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--FCx721O": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/3fb739ec-110c-4756-b32d-41b83654e7b4",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--DbPoTLQ": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/41a9d274-4f1d-444e-8cbf-2b0ab8660b7b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--GkMx7Mu": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/6a571d49-99ef-4964-97ee-68206bac28af",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--PU9XcFn": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/df1a1e65-80dd-43f6-8e38-8af9d184081b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--FWVJDrt": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/e8df4381-612d-4a1a-98c4-74dcc7a4b531",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--SshGkAb": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/5a2cf21d-36c7-44ab-937a-792c41a2bc38",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--qRsh5kk": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/7c82567f-db43-458a-ba71-87e101e66346",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--BivICrn": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/ab2f7514-2670-45c4-a6e6-b47031614733",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--fpN6UK5": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/49d6ac83-7c1e-4eb6-b02d-2ffbf30f807f",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--qwlECgu": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/3cb0714a-a674-4e28-9424-f1e43acc4756",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--cNhcgXg": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/30d012e5-2a1c-447d-b346-1d5748ccc36b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--mCUYDlW": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/1e56f76c-fbdc-4459-8ee2-f4b6d621fcf7",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--pFguwAN": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/a4400c0e-424b-4123-b39d-e158865a8ad4",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--EvYxgid": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/e8a3eef5-d064-4f16-9112-0e3492e5a030",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--u2gwd6d": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/f15f2033-d235-4b5c-b974-83da04116cf0",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--d8NxgUN": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/cb76e0dc-d726-4359-9dd3-156ee26df163",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--fkRXoH0": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/8969cdd8-205f-4fde-9218-d73a8728db14",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--TAgLnBj": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/afd4b2d8-356a-42b5-ad9f-6caabd409309",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--rNB6Mzd": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/9a3e458b-d2c7-4eaa-b183-f8d50c23cbaf",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        },
+        "item--IIWhC3s": {
+          "href": "http://localhost:3001/es/jsonapi/image_style/image_style/69baea2e-0113-4e31-999a-a1c6177bf3d4",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer image styles' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/image_style/image_style"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--vThly1M": {
+          "href": "http://localhost:3001/es/jsonapi/base_field_override/base_field_override/6e82816e-913c-4075-973e-d32e9e7f6277",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        },
+        "item--Zh6cjjK": {
+          "href": "http://localhost:3001/es/jsonapi/base_field_override/base_field_override/e3ec25bb-511a-4531-bf6e-dec3a86799cf",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer node fields' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/base_field_override/base_field_override"
+    }
+  }
+}

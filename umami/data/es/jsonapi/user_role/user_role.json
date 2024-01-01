@@ -1,0 +1,63 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--Me78WPZ": {
+          "href": "http://localhost:3001/es/jsonapi/user_role/user_role/3a4a3912-df73-4153-b4a2-914ce05eecde",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer permissions' permission is required."
+          }
+        },
+        "item--cTAIUpM": {
+          "href": "http://localhost:3001/es/jsonapi/user_role/user_role/66cb5149-d3fa-454e-a566-53fa7a1be649",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer permissions' permission is required."
+          }
+        },
+        "item--Qp2rv9p": {
+          "href": "http://localhost:3001/es/jsonapi/user_role/user_role/862767fa-caa3-4866-9aa3-98f579cb3db0",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer permissions' permission is required."
+          }
+        },
+        "item--kPklooq": {
+          "href": "http://localhost:3001/es/jsonapi/user_role/user_role/6fc0d880-9bc6-47cb-8d86-9a16e3da7eae",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer permissions' permission is required."
+          }
+        },
+        "item--Y1kzFjj": {
+          "href": "http://localhost:3001/es/jsonapi/user_role/user_role/9ab37375-f8fb-4c3d-8fe9-a28507eb2303",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer permissions' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/user_role/user_role"
+    }
+  }
+}

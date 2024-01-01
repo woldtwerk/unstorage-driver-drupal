@@ -1,0 +1,189 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--3y1259O": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/c03d5db5-bf5f-49a6-9aeb-8c82fe021c7b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--gvpM1T6": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/9ca94a33-d108-4e99-8477-1f04e3786a93",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--vrC8uSl": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/b0f9b9f3-3d21-4c17-9088-698db4f586ac",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--BlDwPHj": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/bb93e387-b34c-4b90-b9d7-7293f368a7e5",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--ZpiAinH": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/cf070308-90f7-4a81-86fe-77a189913e8a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--8fwCwv2": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/01b673d3-9921-4503-9bf2-97e1397e420d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--WNU92od": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/0a1819f5-c9db-4f50-92e4-64522b25ac6d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--CuaqtZn": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/c505cd2a-a8b1-4867-a5a2-8f5e88bba19d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--9zXbytd": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/abb25ae3-0a38-44ca-a30c-b199c5c0d589",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--egI9K6j": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/5473580f-8be2-4e0d-8f84-be83b5fb79de",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--NyjZ8xi": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/28fe2bbc-10e7-4611-a626-8de0eb86c528",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--RvdNl3G": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/a41481b6-6646-45a4-b86c-490133323fd0",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--GC1587w": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/d5c54e34-f3b7-45cb-9beb-a4012d155223",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--KtwqY4o": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/33aafa82-d5b2-4521-933a-39e22bdd7e0c",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--IJPwooF": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/808384d9-6bc7-43fc-a7bc-3a5917fe5b25",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--bAsGeBi": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/2cf7d133-3996-4a38-9292-273f3d354ec7",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--WXSXtcs": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/b2e0cbb8-e877-46ba-a0b5-6680e461c31d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--WhB7Ccl": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/b4366f4b-2b56-4a28-a31f-94bda704bc04",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--Yh5GKuB": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/22e7dda0-e4f3-4d08-b102-05ec125d52da",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--IzbMFLu": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/5e4ccf5a-bdca-4409-b220-7217331ad37c",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--uDpigc9": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/c5ca9b4d-08bf-423a-9a84-d43e4ac4b5f4",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--LLAViJh": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/bd9c1704-a5d7-46af-9e93-1207d69be0de",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        },
+        "item--wSKUfiC": {
+          "href": "http://localhost:3001/en/jsonapi/action/action/213bd215-d694-4e1b-840f-df5435f9e148",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer actions' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/action/action"
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "date_format--date_format",
+      "id": "ae15fe80-6e3d-4059-824d-aa5cd3aa55d0",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/ae15fe80-6e3d-4059-824d-aa5cd3aa55d0"
+        }
+      },
+      "attributes": {
+        "label": "Fallback date format"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "1236598f-1eee-4f59-a604-170facf761de",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/1236598f-1eee-4f59-a604-170facf761de"
+        }
+      },
+      "attributes": {
+        "label": "HTML Date"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "87bf0e0d-6287-4b6b-ba78-ffa2a2c26688",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/87bf0e0d-6287-4b6b-ba78-ffa2a2c26688"
+        }
+      },
+      "attributes": {
+        "label": "HTML Datetime"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "302c82b2-a031-49ac-9dc0-ec31ee594854",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/302c82b2-a031-49ac-9dc0-ec31ee594854"
+        }
+      },
+      "attributes": {
+        "label": "HTML Month"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "01773732-2e05-4086-8ad8-98b034c26dfc",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/01773732-2e05-4086-8ad8-98b034c26dfc"
+        }
+      },
+      "attributes": {
+        "label": "HTML Time"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "1f64c84c-1571-47b0-900e-d91e953fd2e4",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/1f64c84c-1571-47b0-900e-d91e953fd2e4"
+        }
+      },
+      "attributes": {
+        "label": "HTML Week"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "d9f818f7-56e0-4791-a056-72e0c3ec3490",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/d9f818f7-56e0-4791-a056-72e0c3ec3490"
+        }
+      },
+      "attributes": {
+        "label": "HTML Year"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "4b1a0204-c350-471b-8dd8-31a9f109fe20",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/4b1a0204-c350-471b-8dd8-31a9f109fe20"
+        }
+      },
+      "attributes": {
+        "label": "HTML Yearless date"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "042df92b-3871-41ad-a5ae-6508947903d9",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/042df92b-3871-41ad-a5ae-6508947903d9"
+        }
+      },
+      "attributes": {
+        "label": "Default long date"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "638dcd44-3bd7-493d-a1c9-cd1f53d845d9",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/638dcd44-3bd7-493d-a1c9-cd1f53d845d9"
+        }
+      },
+      "attributes": {
+        "label": "Default medium date"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "da4e6c3d-dbd4-45b7-b954-3a67b48f6062",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/da4e6c3d-dbd4-45b7-b954-3a67b48f6062"
+        }
+      },
+      "attributes": {
+        "label": "Default short date"
+      }
+    },
+    {
+      "type": "date_format--date_format",
+      "id": "6f91b1a7-4ef2-46f1-9382-9180892fb234",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/date_format/date_format/6f91b1a7-4ef2-46f1-9382-9180892fb234"
+        }
+      },
+      "attributes": {
+        "label": "Umami dates"
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/date_format/date_format"
+    }
+  }
+}

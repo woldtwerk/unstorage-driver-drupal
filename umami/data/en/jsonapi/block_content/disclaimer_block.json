@@ -1,0 +1,101 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "block_content--disclaimer_block",
+      "id": "9b4dcd67-99f3-48d0-93c9-2c46648b29de",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block/9b4dcd67-99f3-48d0-93c9-2c46648b29de?resourceVersion=id%3A1"
+        }
+      },
+      "attributes": {
+        "drupal_internal__id": 1,
+        "drupal_internal__revision_id": 1,
+        "langcode": "en",
+        "revision_created": "2023-12-01T12:58:37+00:00",
+        "revision_log": null,
+        "status": true,
+        "info": "Umami Disclaimer",
+        "changed": "2023-12-01T12:58:37+00:00",
+        "reusable": true,
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "content_translation_created": "2023-12-01T12:58:37+00:00",
+        "field_copyright": {
+          "value": "&copy; 2023 Terms & Conditions",
+          "format": "basic_html",
+          "processed": "<p>© 2023 Terms &amp; Conditions</p>\n"
+        },
+        "field_disclaimer": {
+          "value": "<strong>Umami Magazine & Umami Publications</strong> is a fictional magazine and publisher for illustrative purposes only.",
+          "format": "basic_html",
+          "processed": "<p><strong>Umami Magazine &amp; Umami Publications</strong> is a fictional magazine and publisher for illustrative purposes only.</p>\n"
+        }
+      },
+      "relationships": {
+        "block_content_type": {
+          "data": {
+            "type": "block_content_type--block_content_type",
+            "id": "5c89306e-e362-4d38-9515-65193d1a384d",
+            "meta": {
+              "drupal_internal__target_id": "disclaimer_block"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block/9b4dcd67-99f3-48d0-93c9-2c46648b29de/block_content_type?resourceVersion=id%3A1"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block/9b4dcd67-99f3-48d0-93c9-2c46648b29de/relationships/block_content_type?resourceVersion=id%3A1"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block/9b4dcd67-99f3-48d0-93c9-2c46648b29de/revision_user?resourceVersion=id%3A1"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block/9b4dcd67-99f3-48d0-93c9-2c46648b29de/relationships/revision_user?resourceVersion=id%3A1"
+            }
+          }
+        },
+        "content_translation_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "2135de8f-cbbf-4f31-8c92-66f83b4323df",
+            "meta": {
+              "drupal_internal__target_id": 0
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block/9b4dcd67-99f3-48d0-93c9-2c46648b29de/content_translation_uid?resourceVersion=id%3A1"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block/9b4dcd67-99f3-48d0-93c9-2c46648b29de/relationships/content_translation_uid?resourceVersion=id%3A1"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/block_content/disclaimer_block"
+    }
+  }
+}

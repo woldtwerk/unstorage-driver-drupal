@@ -1,0 +1,56 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--QeQKUCB": {
+          "href": "http://localhost:3001/en/jsonapi/block_content_type/block_content_type/32c8c7f6-d239-4a9b-8ba1-e4ff046e33e1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block types' permission is required."
+          }
+        },
+        "item--Bolrg53": {
+          "href": "http://localhost:3001/en/jsonapi/block_content_type/block_content_type/0b58acbf-f259-4fa6-b34b-329c25fe9533",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block types' permission is required."
+          }
+        },
+        "item--WPkqAhv": {
+          "href": "http://localhost:3001/en/jsonapi/block_content_type/block_content_type/5c89306e-e362-4d38-9515-65193d1a384d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block types' permission is required."
+          }
+        },
+        "item--L0PI4Kz": {
+          "href": "http://localhost:3001/en/jsonapi/block_content_type/block_content_type/89f60af9-16f4-4703-bd61-5eeadd22733b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer block types' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/block_content_type/block_content_type"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--9Zd3kly": {
+          "href": "http://localhost:3001/es/jsonapi/taxonomy_vocabulary/taxonomy_vocabulary/1c154b2a-dd4d-4402-99a4-b1907c1a9628",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access taxonomy overview' OR 'administer taxonomy'."
+          }
+        },
+        "item--VlNl5WL": {
+          "href": "http://localhost:3001/es/jsonapi/taxonomy_vocabulary/taxonomy_vocabulary/2725519e-ffa8-449b-ac9a-47e744a168ee",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access taxonomy overview' OR 'administer taxonomy'."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/taxonomy_vocabulary/taxonomy_vocabulary"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "linkset": [
+    {
+      "anchor": "/es/system/menu/main/linkset",
+      "item": [
+        {
+          "href": "/es",
+          "title": "Inicio",
+          "hierarchy": [
+            "0"
+          ],
+          "machine-name": [
+            "main"
+          ]
+        },
+        {
+          "href": "/es/articles",
+          "title": "Art\u00EDculos",
+          "hierarchy": [
+            "1"
+          ],
+          "machine-name": [
+            "main"
+          ]
+        },
+        {
+          "href": "/es/recipes",
+          "title": "Recetas",
+          "hierarchy": [
+            "2"
+          ],
+          "machine-name": [
+            "main"
+          ]
+        }
+      ]
+    }
+  ]
+}

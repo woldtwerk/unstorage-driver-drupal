@@ -1,0 +1,79 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "media_type--media_type",
+      "id": "84edcc59-c3b2-45c8-84e7-a0c897d55f68",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/media_type/media_type/84edcc59-c3b2-45c8-84e7-a0c897d55f68"
+        }
+      },
+      "attributes": {
+        "label": "Audio"
+      }
+    },
+    {
+      "type": "media_type--media_type",
+      "id": "9973f2f9-ab7e-4ee6-b2a9-f468c62e031d",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/media_type/media_type/9973f2f9-ab7e-4ee6-b2a9-f468c62e031d"
+        }
+      },
+      "attributes": {
+        "label": "Document"
+      }
+    },
+    {
+      "type": "media_type--media_type",
+      "id": "3d5afbbd-b363-4884-9944-d0b39deb359c",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/media_type/media_type/3d5afbbd-b363-4884-9944-d0b39deb359c"
+        }
+      },
+      "attributes": {
+        "label": "Image"
+      }
+    },
+    {
+      "type": "media_type--media_type",
+      "id": "9112d3cc-98ad-4d4d-9236-93608e00dcab",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/media_type/media_type/9112d3cc-98ad-4d4d-9236-93608e00dcab"
+        }
+      },
+      "attributes": {
+        "label": "Remote video"
+      }
+    },
+    {
+      "type": "media_type--media_type",
+      "id": "2fe753eb-6a84-4a45-98b6-abb953ca3d8b",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/media_type/media_type/2fe753eb-6a84-4a45-98b6-abb953ca3d8b"
+        }
+      },
+      "attributes": {
+        "label": "Video"
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/media_type/media_type"
+    }
+  }
+}

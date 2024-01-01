@@ -1,0 +1,115 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "user--user",
+      "id": "2135de8f-cbbf-4f31-8c92-66f83b4323df",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/2135de8f-cbbf-4f31-8c92-66f83b4323df"
+        }
+      },
+      "attributes": {
+        "display_name": "Anonymous"
+      }
+    },
+    {
+      "type": "user--user",
+      "id": "5724bf41-5b31-4595-9e0f-8b09da6e8cbe",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/5724bf41-5b31-4595-9e0f-8b09da6e8cbe"
+        }
+      },
+      "attributes": {
+        "display_name": "admin"
+      }
+    },
+    {
+      "type": "user--user",
+      "id": "32de4b9d-90d3-4128-9fce-320531dfdf8d",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/32de4b9d-90d3-4128-9fce-320531dfdf8d"
+        }
+      },
+      "attributes": {
+        "display_name": "Margaret Hopper"
+      }
+    },
+    {
+      "type": "user--user",
+      "id": "764b0cf7-e27f-4dfb-bae3-dc4e4aeb6927",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/764b0cf7-e27f-4dfb-bae3-dc4e4aeb6927"
+        }
+      },
+      "attributes": {
+        "display_name": "Grace Hamilton"
+      }
+    },
+    {
+      "type": "user--user",
+      "id": "5f386416-b612-4cbd-aa90-c32b99894c8c",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/5f386416-b612-4cbd-aa90-c32b99894c8c"
+        }
+      },
+      "attributes": {
+        "display_name": "Umami"
+      }
+    },
+    {
+      "type": "user--user",
+      "id": "c6924ef0-d404-48ef-94da-cd09ede2635a",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/c6924ef0-d404-48ef-94da-cd09ede2635a"
+        }
+      },
+      "attributes": {
+        "display_name": "Holly Foat"
+      }
+    },
+    {
+      "type": "user--user",
+      "id": "ab6e5304-4061-4ba1-884c-673af92a97c1",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/ab6e5304-4061-4ba1-884c-673af92a97c1"
+        }
+      },
+      "attributes": {
+        "display_name": "Megan Collins Quinlan"
+      }
+    },
+    {
+      "type": "user--user",
+      "id": "4bd982d4-6532-4ffa-89ae-20fa98e67529",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/user/user/4bd982d4-6532-4ffa-89ae-20fa98e67529"
+        }
+      },
+      "attributes": {
+        "display_name": "Samuel Adamson"
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/user/user"
+    }
+  }
+}

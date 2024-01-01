@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "/es/system/menu/footer/linkset",
+      "item": [
+        {
+          "href": "/es/contact",
+          "title": "Contacto",
+          "hierarchy": [
+            "0"
+          ],
+          "machine-name": [
+            "footer"
+          ]
+        }
+      ]
+    }
+  ]
+}

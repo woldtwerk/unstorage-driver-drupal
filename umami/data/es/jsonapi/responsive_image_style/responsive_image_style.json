@@ -1,0 +1,63 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--nAbMSZz": {
+          "href": "http://localhost:3001/es/jsonapi/responsive_image_style/responsive_image_style/25d3d4f0-fcae-448a-93af-11672f15e3f8",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer responsive images' permission is required."
+          }
+        },
+        "item--mIeey8G": {
+          "href": "http://localhost:3001/es/jsonapi/responsive_image_style/responsive_image_style/661d8fad-d273-4d05-8e4e-6239802be9eb",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer responsive images' permission is required."
+          }
+        },
+        "item--AAAFnO8": {
+          "href": "http://localhost:3001/es/jsonapi/responsive_image_style/responsive_image_style/7f18b60a-30e8-4acf-981b-2f03ad23ffe5",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer responsive images' permission is required."
+          }
+        },
+        "item--rHASWen": {
+          "href": "http://localhost:3001/es/jsonapi/responsive_image_style/responsive_image_style/2867d553-0510-4ad1-bed2-677256e7b6bf",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer responsive images' permission is required."
+          }
+        },
+        "item--fxMPV0Z": {
+          "href": "http://localhost:3001/es/jsonapi/responsive_image_style/responsive_image_style/a7907d01-5afe-483a-b980-2c6e2ba018fc",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer responsive images' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/responsive_image_style/responsive_image_style"
+    }
+  }
+}

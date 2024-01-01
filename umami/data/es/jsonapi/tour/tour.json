@@ -1,0 +1,77 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--cMtd80R": {
+          "href": "http://localhost:3001/es/jsonapi/tour/tour/062fbb74-3d42-4c93-b1fe-e2e3d8785dae",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access tour' OR 'administer site configuration'."
+          }
+        },
+        "item--hXgOOAk": {
+          "href": "http://localhost:3001/es/jsonapi/tour/tour/74fe53e8-749b-4cfe-90f1-bcd75750816e",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access tour' OR 'administer site configuration'."
+          }
+        },
+        "item--UeqRzdP": {
+          "href": "http://localhost:3001/es/jsonapi/tour/tour/92167502-b7e5-4c56-8b9d-0d9f481ed3ae",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access tour' OR 'administer site configuration'."
+          }
+        },
+        "item--tckpQ8l": {
+          "href": "http://localhost:3001/es/jsonapi/tour/tour/81859cfa-be19-4fc9-9005-2be7df8dd1a6",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access tour' OR 'administer site configuration'."
+          }
+        },
+        "item--qyWwtkh": {
+          "href": "http://localhost:3001/es/jsonapi/tour/tour/0af88aad-8a27-4291-b3c1-7b0e28254ac7",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access tour' OR 'administer site configuration'."
+          }
+        },
+        "item--oOPVKhn": {
+          "href": "http://localhost:3001/es/jsonapi/tour/tour/be4ac97f-8a8d-443f-b3cd-fb2f479d8200",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access tour' OR 'administer site configuration'."
+          }
+        },
+        "item--d02PBlu": {
+          "href": "http://localhost:3001/es/jsonapi/tour/tour/8cabfbe4-5153-4a2c-8ec1-aefd0813be14",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The following permissions are required: 'access tour' OR 'administer site configuration'."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/tour/tour"
+    }
+  }
+}

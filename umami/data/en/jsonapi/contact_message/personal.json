@@ -1,0 +1,27 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "errors": [
+    {
+      "title": "Method Not Allowed",
+      "status": "405",
+      "detail": "No route found for \"GET http://localhost:3001/en/jsonapi/contact_message/personal\": Method Not Allowed (Allow: POST)",
+      "links": {
+        "via": {
+          "href": "http://localhost:3001/en/jsonapi/contact_message/personal"
+        },
+        "info": {
+          "href": "http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.6"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--YxaefON": {
+          "href": "http://localhost:3001/en/jsonapi/filter_format/filter_format/1d21e799-61e3-49bd-a6f6-ae0f0f7b98b0",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer filters' permission is required."
+          }
+        },
+        "item--frq14Li": {
+          "href": "http://localhost:3001/en/jsonapi/filter_format/filter_format/2368ed63-ed31-4806-8ce8-76833b22b144",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer filters' permission is required."
+          }
+        },
+        "item--nnBNDz8": {
+          "href": "http://localhost:3001/en/jsonapi/filter_format/filter_format/7d75e140-0a0e-4691-99c3-05959922f0c9",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer filters' permission is required."
+          }
+        },
+        "item--3N0QQKx": {
+          "href": "http://localhost:3001/en/jsonapi/filter_format/filter_format/a2ea3e6b-8bc7-44aa-b2b3-c018c3c19ee0",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer filters' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/filter_format/filter_format"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+<template>
+  <a href="#main-content" class="visually-hidden focusable skip-link">
+    Skip to main content
+  </a>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
+</template>

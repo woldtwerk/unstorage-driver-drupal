@@ -1,0 +1,539 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "taxonomy_term--recipe_category",
+      "id": "f9817c87-c348-4c29-b359-bb019d62d684",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684?resourceVersion=id%3A29"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 29,
+        "drupal_internal__revision_id": 29,
+        "langcode": "en",
+        "revision_created": "2023-12-01T12:58:37+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Accompaniments",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-12-01T12:58:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "/recipe-category/accompaniments",
+          "pid": 57,
+          "langcode": "en"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "content_translation_created": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "1c154b2a-dd4d-4402-99a4-b1907c1a9628",
+            "meta": {
+              "drupal_internal__target_id": "recipe_category"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/vid?resourceVersion=id%3A29"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/relationships/vid?resourceVersion=id%3A29"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/revision_user?resourceVersion=id%3A29"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/relationships/revision_user?resourceVersion=id%3A29"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the 'virtual' resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/parent?resourceVersion=id%3A29"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/relationships/parent?resourceVersion=id%3A29"
+            }
+          }
+        },
+        "content_translation_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "2135de8f-cbbf-4f31-8c92-66f83b4323df",
+            "meta": {
+              "drupal_internal__target_id": 0
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/content_translation_uid?resourceVersion=id%3A29"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/f9817c87-c348-4c29-b359-bb019d62d684/relationships/content_translation_uid?resourceVersion=id%3A29"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--recipe_category",
+      "id": "13980fa8-3f1f-46ce-8cb2-1017de8fd086",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086?resourceVersion=id%3A30"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 30,
+        "drupal_internal__revision_id": 30,
+        "langcode": "en",
+        "revision_created": "2023-12-01T12:58:37+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Desserts",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-12-01T12:58:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "/recipe-category/desserts",
+          "pid": 59,
+          "langcode": "en"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "content_translation_created": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "1c154b2a-dd4d-4402-99a4-b1907c1a9628",
+            "meta": {
+              "drupal_internal__target_id": "recipe_category"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/vid?resourceVersion=id%3A30"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/relationships/vid?resourceVersion=id%3A30"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/revision_user?resourceVersion=id%3A30"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/relationships/revision_user?resourceVersion=id%3A30"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the 'virtual' resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/parent?resourceVersion=id%3A30"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/relationships/parent?resourceVersion=id%3A30"
+            }
+          }
+        },
+        "content_translation_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "2135de8f-cbbf-4f31-8c92-66f83b4323df",
+            "meta": {
+              "drupal_internal__target_id": 0
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/content_translation_uid?resourceVersion=id%3A30"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/13980fa8-3f1f-46ce-8cb2-1017de8fd086/relationships/content_translation_uid?resourceVersion=id%3A30"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--recipe_category",
+      "id": "6e2863dc-4be9-4e75-8eb5-9162aa3798c3",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3?resourceVersion=id%3A31"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 31,
+        "drupal_internal__revision_id": 31,
+        "langcode": "en",
+        "revision_created": "2023-12-01T12:58:37+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Main courses",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-12-01T12:58:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "/recipe-category/main-courses",
+          "pid": 61,
+          "langcode": "en"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "content_translation_created": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "1c154b2a-dd4d-4402-99a4-b1907c1a9628",
+            "meta": {
+              "drupal_internal__target_id": "recipe_category"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/vid?resourceVersion=id%3A31"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/relationships/vid?resourceVersion=id%3A31"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/revision_user?resourceVersion=id%3A31"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/relationships/revision_user?resourceVersion=id%3A31"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the 'virtual' resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/parent?resourceVersion=id%3A31"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/relationships/parent?resourceVersion=id%3A31"
+            }
+          }
+        },
+        "content_translation_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "2135de8f-cbbf-4f31-8c92-66f83b4323df",
+            "meta": {
+              "drupal_internal__target_id": 0
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/content_translation_uid?resourceVersion=id%3A31"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/6e2863dc-4be9-4e75-8eb5-9162aa3798c3/relationships/content_translation_uid?resourceVersion=id%3A31"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--recipe_category",
+      "id": "7a59df77-bf17-4a9f-832a-71ddc865d2b0",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0?resourceVersion=id%3A32"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 32,
+        "drupal_internal__revision_id": 32,
+        "langcode": "en",
+        "revision_created": "2023-12-01T12:58:37+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Snacks",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-12-01T12:58:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "/recipe-category/snacks",
+          "pid": 63,
+          "langcode": "en"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "content_translation_created": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "1c154b2a-dd4d-4402-99a4-b1907c1a9628",
+            "meta": {
+              "drupal_internal__target_id": "recipe_category"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/vid?resourceVersion=id%3A32"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/relationships/vid?resourceVersion=id%3A32"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/revision_user?resourceVersion=id%3A32"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/relationships/revision_user?resourceVersion=id%3A32"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the 'virtual' resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/parent?resourceVersion=id%3A32"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/relationships/parent?resourceVersion=id%3A32"
+            }
+          }
+        },
+        "content_translation_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "2135de8f-cbbf-4f31-8c92-66f83b4323df",
+            "meta": {
+              "drupal_internal__target_id": 0
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/content_translation_uid?resourceVersion=id%3A32"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/7a59df77-bf17-4a9f-832a-71ddc865d2b0/relationships/content_translation_uid?resourceVersion=id%3A32"
+            }
+          }
+        }
+      }
+    },
+    {
+      "type": "taxonomy_term--recipe_category",
+      "id": "bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c?resourceVersion=id%3A33"
+        }
+      },
+      "attributes": {
+        "drupal_internal__tid": 33,
+        "drupal_internal__revision_id": 33,
+        "langcode": "en",
+        "revision_created": "2023-12-01T12:58:37+00:00",
+        "revision_log_message": null,
+        "status": true,
+        "name": "Starters",
+        "description": null,
+        "weight": 0,
+        "changed": "2023-12-01T12:58:37+00:00",
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": "/recipe-category/starters",
+          "pid": 65,
+          "langcode": "en"
+        },
+        "content_translation_source": "und",
+        "content_translation_outdated": false,
+        "content_translation_created": "2023-12-01T12:58:37+00:00"
+      },
+      "relationships": {
+        "vid": {
+          "data": {
+            "type": "taxonomy_vocabulary--taxonomy_vocabulary",
+            "id": "1c154b2a-dd4d-4402-99a4-b1907c1a9628",
+            "meta": {
+              "drupal_internal__target_id": "recipe_category"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/vid?resourceVersion=id%3A33"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/relationships/vid?resourceVersion=id%3A33"
+            }
+          }
+        },
+        "revision_user": {
+          "data": null,
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/revision_user?resourceVersion=id%3A33"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/relationships/revision_user?resourceVersion=id%3A33"
+            }
+          }
+        },
+        "parent": {
+          "data": [
+            {
+              "type": "taxonomy_term--recipe_category",
+              "id": "virtual",
+              "meta": {
+                "links": {
+                  "help": {
+                    "href": "https://www.drupal.org/docs/8/modules/json-api/core-concepts#virtual",
+                    "meta": {
+                      "about": "Usage and meaning of the 'virtual' resource identifier."
+                    }
+                  }
+                }
+              }
+            }
+          ],
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/parent?resourceVersion=id%3A33"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/relationships/parent?resourceVersion=id%3A33"
+            }
+          }
+        },
+        "content_translation_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "2135de8f-cbbf-4f31-8c92-66f83b4323df",
+            "meta": {
+              "drupal_internal__target_id": 0
+            }
+          },
+          "links": {
+            "related": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/content_translation_uid?resourceVersion=id%3A33"
+            },
+            "self": {
+              "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category/bbfaf3d6-f8a0-4649-b4d6-ad605c0da03c/relationships/content_translation_uid?resourceVersion=id%3A33"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/taxonomy_term/recipe_category"
+    }
+  }
+}

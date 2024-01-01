@@ -1,0 +1,59 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "contact_form--contact_form",
+      "id": "89f5b55f-79c5-4630-a9d6-474d3a596704",
+      "links": {
+        "self": {
+          "href": "http://localhost:3001/es/jsonapi/contact_form/contact_form/89f5b55f-79c5-4630-a9d6-474d3a596704"
+        }
+      },
+      "attributes": {
+        "langcode": "en",
+        "status": true,
+        "dependencies": [],
+        "drupal_internal__id": "feedback",
+        "label": "Comentarios sobre el sitio web",
+        "recipients": [
+          "asd@ads.de"
+        ],
+        "reply": "",
+        "weight": 0,
+        "message": "Su mensaje ha sido enviado.",
+        "redirect": ""
+      }
+    }
+  ],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--e2NtZBY": {
+          "href": "http://localhost:3001/es/jsonapi/contact_form/contact_form/11ea9c40-f903-44c1-8aaf-7ac11f2d7967",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "self": {
+      "href": "http://localhost:3001/es/jsonapi/contact_form/contact_form"
+    }
+  }
+}

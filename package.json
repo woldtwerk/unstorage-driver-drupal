@@ -1,0 +1,42 @@
+{
+  "name": "@woldtwerk/unstorage-driver-drupal",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "keywords": [
+    "nuxt",
+    "unstorage",
+    "drupal",
+    "jsonapi"
+  ],
+  "exports": {
+    ".": {
+      "types": "./src/drivers/drupal.d.ts",
+      "import": "./src/drivers/drupal.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "module": "./src/drivers/drupal.js",
+  "types": "drupal.d.ts",
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=8"
+  },
+  "scripts": {
+    "check": "tsc",
+    "release": "pnpm dlx bumpp package.json --commit --push --tag"
+  },
+  "devDependencies": {
+    "@ueberbit/eslint-config": "^0.3.4",
+    "@woldtwerk/unstorage-driver-drupal": "link:"
+  },
+  "eslintConfig": {
+    "root": true,
+    "extends": [
+      "@ueberbit"
+    ]
+  }
+}

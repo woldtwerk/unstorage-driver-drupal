@@ -1,0 +1,381 @@
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [],
+  "meta": {
+    "omitted": {
+      "detail": "Some resources have been omitted because of insufficient authorization.",
+      "links": {
+        "help": {
+          "href": "https://www.drupal.org/docs/8/modules/json-api/filtering#filters-access-control"
+        },
+        "item--tTKyOdR": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/3aad71c7-91e5-4e7f-b30e-9e4883ddbaa4",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--i7EPoU6": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/11a0a4f1-14b4-4cff-9f29-07062e976dea",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--5bSusAO": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/d8c768fe-5c46-48be-919b-4ce24766cb92",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--fqnzNmg": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/5c31bb1e-62ce-4f45-97ac-0bf1fd02965f",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--QFP2J8z": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/8ecaa360-49c3-41cb-a521-7e6b56868538",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--T8sybdM": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/7b240fc0-b9ea-49f4-b8df-b72119f9d94b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--sQrqc4i": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/b5b14c0c-a54b-43b3-8b0c-3e374186db25",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--Sxib9Qn": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/e6b92439-eb94-462c-9eed-a22aa4078afc",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--HBdJC6Y": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/cb8c91ab-f11d-4a4d-a323-7123d401f78f",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--FwDSbsj": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/5d511178-74cb-4998-8a15-b2fc42ddc0f7",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--J8ewO8s": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/96676015-b693-4fe4-9fea-ac1a6ae07ade",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--eTSbdHj": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/b00e61a9-a67b-4e9b-9c84-271070773fbf",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--HnC50gv": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/77e803fc-5f8c-4a77-982b-a22021a9a774",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--rE5VIPX": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/62ed2aef-8f7c-45e4-ab78-a0687a3df687",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--C0RcZ4T": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/5cb9ef3c-4ade-4320-9157-9d8110d0edb9",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--kagnhdG": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/ad7b11a8-d3eb-442b-8603-ac196e6c17b6",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--h2sAbKX": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/609b0a2b-881c-43cd-a02e-7153c74934bb",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--zo3CHBB": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/a541d81e-6cd5-40d2-9ff1-d43af4bc9cb9",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--d2dABRk": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/ddd20c39-deda-4710-bce0-a8ef54d94ede",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--ZbtQckX": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/b389d8eb-ef01-42b7-b8e8-3c01831ee26c",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--IuZ3qQy": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/8e022eed-e201-4cac-8f99-2e87fe681019",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--NhBtfAY": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/15de3c51-3444-41a1-8201-d5c4f8b46750",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--E3iPBlc": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/bcfe3c04-e49d-4cf8-80ce-0c3d0cc72f51",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--ILndUnE": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/7174210f-075e-4837-a4e5-a45093bd1f57",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--xS8KPPZ": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/b74d4cb2-b623-4566-8775-1ae06b49c1bd",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--pC551Bl": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/fed2080b-1be4-4f36-a200-08114b728899",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--pwBjAO0": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/c73840eb-4027-4d73-9827-1ed4d0da8ca1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--gb40VR9": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/f775a813-54a5-45c4-a3e3-be423af900e9",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--wx8ZClV": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/ebe90617-abb1-4eaf-aad4-5fce58c10e1c",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--PIuFASW": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/17e1ef8d-6b62-46ee-b298-077d7ca2aefd",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--WANKbTO": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/075101c6-c94b-440b-b0d6-c44dead0eb3d",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--wJwfKmj": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/f8bcfa35-6666-4b40-b774-59c778405768",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--uuSmQcB": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/4ac70c45-ca1b-49d1-b812-5ad0576b6f84",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--mqGQhxU": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/cc41c024-b6a8-4d3e-b477-25d007d0f040",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--94TUlZ7": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/79f3ad17-498c-4168-87eb-bb48532947ad",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--FGV48QN": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/352a5403-4e2b-4d6d-8c78-39904a6902c6",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--rHLwUZJ": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/a26ab5d0-761f-4d7a-970d-63af11be5708",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--S6yEz5a": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/c1309cc1-a3d1-464b-b8ad-81193fcd8c02",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--efjdlTM": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/9a4cac24-bb03-424c-8ff0-2cbfdb6177c1",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--zAGArLn": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/64f2e345-6304-43a7-9c08-7920c055d3a6",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--nIulnJd": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/a2134bfe-2c0f-4cf6-9469-168d414f2f2a",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--ttdUzls": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/1fce8a21-5a6c-45ad-af50-7863cd151987",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--VEGjoEu": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/0c9244db-340d-4dcf-b766-e68a9acfe360",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--EDjudVU": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/69cbf923-b5f4-4224-a576-0a814e88e628",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--B3x5Uu1": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/9875a00d-4352-4a6c-b608-af81d703072b",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--mr2a9UZ": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/0fe70137-35c0-4886-81c3-381b561c6f33",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--tl4ttI2": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/74eee8ae-6cf5-477b-a93c-a8c90e7cc5f8",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--6IJibj5": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/98adb5b9-12d7-46b2-a38f-ec3edb293f95",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--bc1dDCN": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/8109937c-3359-441b-b446-11002bf40388",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        },
+        "item--dDUMd72": {
+          "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias/f1f61d5c-0648-4bce-a9ab-4e414c4f05bc",
+          "meta": {
+            "rel": "item",
+            "detail": "The current user is not allowed to GET the selected resource. The 'administer url aliases' permission is required."
+          }
+        }
+      }
+    }
+  },
+  "links": {
+    "next": {
+      "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias?page%5Boffset%5D=50&page%5Blimit%5D=50"
+    },
+    "self": {
+      "href": "http://localhost:3001/en/jsonapi/path_alias/path_alias"
+    }
+  }
+}
