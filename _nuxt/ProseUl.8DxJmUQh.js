@@ -1,1 +1,0 @@
-import{h as o,o as r,c as t,C as s}from"./entry.s5DNtmel.js";import"./entry._2TNSM3b.js";const c={};function n(e,l){return r(),t("ul",null,[s(e.$slots,"default")])}const _=o(c,[["render",n]]);export{_ as default};

@@ -4,7 +4,7 @@
     "link": [],
     "style": []
   },
-  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/es/recipe-category/platos-principales\" class=\"\">Platos principales</a></div>",
+  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/unstorage-driver-drupal/es/recipe-category/platos-principales\" class=\"\">Platos principales</a></div>",
   "state": {},
   "chunks": {},
   "props": {},

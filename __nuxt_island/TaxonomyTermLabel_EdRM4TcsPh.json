@@ -4,7 +4,7 @@
     "link": [],
     "style": []
   },
-  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/en/tags/vegetarian\" class=\"\">Vegetarian</a></div>",
+  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/unstorage-driver-drupal/en/tags/vegetarian\" class=\"\">Vegetarian</a></div>",
   "state": {},
   "chunks": {},
   "props": {},
