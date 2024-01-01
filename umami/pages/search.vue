@@ -45,7 +45,7 @@ const { meta: { results }, query: { keys } } = useRoute()
 
 <template>
   <div>
-    <form id="search-form" class="search-form" data-drupal-selector="search-form" :action="localePath('search')" method="GET" accept-charset="UTF-8">
+    <form id="search-form" class="search-form" data-drupal-selector="search-form" method="GET" accept-charset="UTF-8">
       <div class="container-inline form-wrapper">
         <div class="form-item form-type-search form-item-keys">
           <label for="edit-keys" class="form-label">{{ $t('Enter your keywords') }}</label>
