@@ -4,7 +4,7 @@
     "link": [],
     "style": []
   },
-  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/unstorage-driver-drupal/es/tags/coccion\" class=\"\">Cocción</a></div>",
+  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/es/tags/coccion\" class=\"\">Cocción</a></div>",
   "state": {},
   "chunks": {},
   "props": {},

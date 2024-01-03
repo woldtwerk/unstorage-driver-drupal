@@ -4,7 +4,7 @@
     "link": [],
     "style": []
   },
-  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/unstorage-driver-drupal/es/tags/estacional\" class=\"\">Estacional</a></div>",
+  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/es/tags/estacional\" class=\"\">Estacional</a></div>",
   "state": {},
   "chunks": {},
   "props": {},

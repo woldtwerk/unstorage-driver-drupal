@@ -4,7 +4,7 @@
     "link": [],
     "style": []
   },
-  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/unstorage-driver-drupal/es/recipe-category/acompanamientos\" class=\"\">Acompañamientos</a></div>",
+  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/es/recipe-category/acompanamientos\" class=\"\">Acompañamientos</a></div>",
   "state": {},
   "chunks": {},
   "props": {},

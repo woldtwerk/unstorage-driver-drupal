@@ -4,7 +4,7 @@
     "link": [],
     "style": []
   },
-  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/unstorage-driver-drupal/en/tags/party\" class=\"\">Party</a></div>",
+  "html": "<div class=\"field__item\" nuxt-ssr-component-uid><a href=\"/en/tags/party\" class=\"\">Party</a></div>",
   "state": {},
   "chunks": {},
   "props": {},
