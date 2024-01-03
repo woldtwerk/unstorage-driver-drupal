@@ -5,11 +5,6 @@ const resolver = createResolver(import.meta.url)
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  $production: {
-    app: {
-      baseURL: '/unstorage-driver-drupal/',
-    },
-  },
   modules: [
     '@nuxt/content',
     '@nuxtjs/i18n',
