@@ -2,7 +2,7 @@
 
 ## Umami Demo
 
-There is a [Nuxt 3 Umami Demo](https://umami.unstorage-driver-drupal.github.woldtwerk.de/en/recipes/vegan-chocolate-and-nut-brownies) in /umami.
+There is a [Nuxt 3 Umami Demo](https://umami.unstorage-driver-drupal.github.woldtwerk.de/en) in /umami.
 
 ## Setup
 
